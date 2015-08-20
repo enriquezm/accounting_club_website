@@ -1,0 +1,90 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+body a {
+  color: #015064;
+}
+body a:hover {
+  text-decoration: none;
+}
+body nav.navbar {
+  padding: 5px 10px;
+}
+body section#about {
+  padding: 100px 70px 120px 70px;
+  color: #34495e;
+}
+body section#about #about-us-content {
+  padding: 10px 100px 50px 100px;
+}
+body section#president-blurb {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #01647e;
+  color: #edeff4;
+}
+body section#president-blurb .president-blurb-content {
+  margin: 80px 10px;
+}
+body section#executiveboard {
+  padding: 100px 100px;
+}
+body section#executiveboard .board-container {
+  margin-bottom: 50px;
+}
+body section#testimonials {
+  padding: 80px 80px;
+  font-size: 24px;
+  background-color: #01647e;
+  color: #edeff4;
+}
+body section#membership {
+  padding: 120px 120px;
+  color: #34495e;
+}
+body section#membership .membership-content {
+  padding: 50px;
+}
+body section#events {
+  padding: 70px 70px;
+  background-color: #033c4b;
+  color: #edeff4;
+}
+body section#contact {
+  padding: 120px 120px;
+  background-color: #01647e;
+  color: #edeff4;
+}
+body footer {
+  padding: 40px 40px;
+  color: #34495e;
+}
+body .modal-dialog {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 99999;
+  display: none;
+  opacity: 1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;
+}
+body .modal-dialog:target {
+  opacity: 1;
+  diplay: block;
+  pointer-events: auto;
+}
+body .modal-dialog .modal-content {
+  width: 400px;
+  position: relative;
+  margin: 10% auto;
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+}
