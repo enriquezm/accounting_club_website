@@ -7,11 +7,11 @@
 @flat-wet-asphalt: #34495e;
 
 // New Global Colors
-@darker-blue-gray: #24454C;
-@dark-blue-gray: #589BA4;
-@dark-blue: #1093A7;
-@light-blue: #1AD3F1;
-@light-blue-white: #DEF2F3;
+@color-one: #24454C;
+@color-two: #589BA4;
+@color-three: #1093A7;
+@color-four: #1AD3F1;
+@color-five: #DEF2F3;
 
 
 //Mixins
@@ -33,7 +33,7 @@ body {
 	}
 	section#about {
 		padding: 100px 70px 120px 70px;
-		color: @flat-wet-asphalt;
+		color: @color-three;
 		#about-us-content {
 			padding: 10px 100px 50px 100px;
 		}
@@ -41,23 +41,11 @@ body {
 	section#president-blurb {
 		padding-top: 40px;
 		padding-bottom: 40px;
-		background-color: @light-blue;
-		color: @cloud-white;
+		background-color: @color-two;
+		color: @color-three;
 		.president-blurb-content {
 			margin: 80px 10px;
 		}
-	}
-	section#executiveboard {
-		padding: 100px 100px;
-		.board-container {
-			margin-bottom: 50px;
-		}
-	}
-	section#testimonials {
-		padding: 80px 80px;
-		font-size: 24px;
-		background-color: @light-blue;
-		color: @cloud-white;
 	}
 	section#membership {
 		padding: 120px 120px;
@@ -65,6 +53,19 @@ body {
 		.membership-content {
 			padding: 50px;
 		}
+	}
+	section#executiveboard {
+		padding: 100px 100px;
+		background-color: @color-one;
+		.board-container {
+			margin-bottom: 50px;
+		}
+	}
+	section#testimonials {
+		padding: 80px 80px;
+		font-size: 24px;
+		background-color: @color-two;
+		color: @color-three;
 	}
 	section#events {
 		padding: 70px 70px;

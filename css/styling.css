@@ -13,7 +13,7 @@ body nav.navbar {
 }
 body section#about {
   padding: 100px 70px 120px 70px;
-  color: #34495e;
+  color: #1093a7;
 }
 body section#about #about-us-content {
   padding: 10px 100px 50px 100px;
@@ -21,23 +21,11 @@ body section#about #about-us-content {
 body section#president-blurb {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #1ad3f1;
-  color: #edeff4;
+  background-color: #589ba4;
+  color: #1093a7;
 }
 body section#president-blurb .president-blurb-content {
   margin: 80px 10px;
-}
-body section#executiveboard {
-  padding: 100px 100px;
-}
-body section#executiveboard .board-container {
-  margin-bottom: 50px;
-}
-body section#testimonials {
-  padding: 80px 80px;
-  font-size: 24px;
-  background-color: #1ad3f1;
-  color: #edeff4;
 }
 body section#membership {
   padding: 120px 120px;
@@ -46,14 +34,27 @@ body section#membership {
 body section#membership .membership-content {
   padding: 50px;
 }
+body section#executiveboard {
+  padding: 100px 100px;
+  background-color: #24454c;
+}
+body section#executiveboard .board-container {
+  margin-bottom: 50px;
+}
+body section#testimonials {
+  padding: 80px 80px;
+  font-size: 24px;
+  background-color: #589ba4;
+  color: #1093a7;
+}
 body section#events {
   padding: 70px 70px;
-  background-color: #1093a7;
+  background-color: #033c4b;
   color: #edeff4;
 }
 body section#contact {
   padding: 120px 120px;
-  background-color: #1ad3f1;
+  background-color: #01647e;
   color: #edeff4;
 }
 body footer {
