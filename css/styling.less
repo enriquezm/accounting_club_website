@@ -7,11 +7,15 @@
 @flat-wet-asphalt: #34495e;
 
 // New Global Colors
-@color-one: #24454C;
-@color-two: #589BA4;
-@color-three: #1093A7;
-@color-four: #1AD3F1;
-@color-five: #DEF2F3;
+@color-one: #1093A7;
+@color-two: #24454C;
+@color-three: #DEF2F3;
+@color-four: #589BA4;
+@color-five: #1AD3F1;
+
+// Basic Colors
+@white: #FFF;
+@black: #000;
 
 
 //Mixins
@@ -33,9 +37,14 @@ body {
 	}
 	section#about {
 		padding: 100px 70px 120px 70px;
-		color: @color-three;
+		background-image: url("../images/crossword.png");
+		color: @color-two;
 		#about-us-content {
 			padding: 10px 100px 50px 100px;
+		}
+		.btn {
+			background-color: @color-two;
+			color: @white;
 		}
 	}
 	section#president-blurb {
@@ -49,14 +58,19 @@ body {
 	}
 	section#membership {
 		padding: 120px 120px;
-		color: @flat-wet-asphalt;
+		background-color: @color-one;
+		color: @white;
 		.membership-content {
 			padding: 50px;
+		}
+		.btn {
+			background-color: @color-two;
+			color: @white;
 		}
 	}
 	section#executiveboard {
 		padding: 100px 100px;
-		background-color: @color-one;
+		background-image: url("../images/crossword.png");
 		.board-container {
 			margin-bottom: 50px;
 		}
