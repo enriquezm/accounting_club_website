@@ -232,7 +232,7 @@ This is the about us section contains general overview of what AC is about
 				<!-- If user has uploaded an image -->
 				<?php if(!empty( $president_blurb_image ) ) :?>
 
-				<img id="president-image" class="img-responsive" src="<?php echo $president_blurb_image['url']; ?>" alt=" <?php echo $president_blurb_image['alt']; ?>" />
+				<img id="president-image" class="img-circle" src="<?php echo $president_blurb_image['url']; ?>" alt=" <?php echo $president_blurb_image['alt']; ?>" />
 
 				<?php endif; ?>
 
@@ -340,11 +340,11 @@ This is the current Executive Boarc section this section will contain
 	
 
 					<!-- If user has uploaded an image -->
-					<!-- <?php if(!empty( $president_image  ) ) :?> -->
+					<?php if(!empty( $president_image  ) ) :?> 
 
-					<img src="<?php echo $president_image['url']; ?>" alt=" <?php echo $president_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $president_image['url']; ?>" alt=" <?php echo $president_image['alt']; ?>" />
 
-					<!-- <?php endif; ?> -->
+					 <?php endif; ?> 
 
 
 					<h4><?php echo $president_name; ?></h4>
@@ -369,7 +369,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $vice_president_image  ) ) :?>
 
-					<img src="<?php echo $vice_president_image['url']; ?>" alt=" <?php echo $vice_president_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $vice_president_image['url']; ?>" alt=" <?php echo $vice_president_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -393,7 +393,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $treasurer_image ) ) :?>
 
-					<img src="<?php echo $treasurer_image['url']; ?>" alt=" <?php echo $treasurer_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $treasurer_image['url']; ?>" alt=" <?php echo $treasurer_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -418,7 +418,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $secretary_image ) ) :?>
 
-					<img src="<?php echo $secretary_image['url']; ?>" alt=" <?php echo $secretary_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $secretary_image['url']; ?>" alt=" <?php echo $secretary_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -441,7 +441,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_pro_rel_image  ) ) :?>
 
-					<img src="<?php echo $director_of_pro_rel_image['url']; ?>" alt=" <?php echo $director_of_pro_rel_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_pro_rel_image['url']; ?>" alt=" <?php echo $director_of_pro_rel_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -464,7 +464,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_internal_affairs_image ) ) :?>
 
-					<img src="<?php echo $director_of_internal_affairs_image['url']; ?>" alt=" <?php echo $director_of_internal_affairs_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_internal_affairs_image['url']; ?>" alt=" <?php echo $director_of_internal_affairs_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -489,7 +489,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_student_rel_image  ) ) :?>
 
-					<img src="<?php echo $director_of_student_rel_image['url']; ?>" alt=" <?php echo $director_of_student_rel_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_student_rel_image['url']; ?>" alt=" <?php echo $director_of_student_rel_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -512,7 +512,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_pub_rel_image  ) ) :?>
 
-					<img src="<?php echo $director_of_pub_rel_image['url']; ?>" alt=" <?php echo $director_of_pub_rel_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_pub_rel_image['url']; ?>" alt=" <?php echo $director_of_pub_rel_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -535,7 +535,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_human_res_image  ) ) :?>
 
-					<img src="<?php echo $director_of_human_res_image['url']; ?>" alt=" <?php echo $director_of_human_res_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_human_res_image['url']; ?>" alt=" <?php echo $director_of_human_res_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -560,7 +560,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $director_of_info_systems_image  ) ) :?>
 
-					<img src="<?php echo $director_of_info_systems_image['url']; ?>" alt=" <?php echo $director_of_info_systems_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $director_of_info_systems_image['url']; ?>" alt=" <?php echo $director_of_info_systems_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -583,7 +583,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $ibc_senator_image  ) ) :?>
 
-					<img src="<?php echo $ibc_senator_image['url']; ?>" alt=" <?php echo $ibc_senator_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $ibc_senator_image['url']; ?>" alt=" <?php echo $ibc_senator_image['alt']; ?>" />
 
 					<?php endif; ?>
 
@@ -606,7 +606,7 @@ This is the current Executive Boarc section this section will contain
 					<!-- If user has uploaded an image -->
 					<?php if(!empty( $club_advisor_image  ) ) :?>
 
-					<img src="<?php echo $club_advisor_image['url']; ?>" alt=" <?php echo $club_advisor_image['alt']; ?>" />
+					<img class="img-circle" src="<?php echo $club_advisor_image['url']; ?>" alt=" <?php echo $club_advisor_image['alt']; ?>" />
 
 					<?php endif; ?>
 
