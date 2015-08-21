@@ -21,7 +21,7 @@ body section#about #about-us-content {
 body section#president-blurb {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #01647e;
+  background-color: #1ad3f1;
   color: #edeff4;
 }
 body section#president-blurb .president-blurb-content {
@@ -36,7 +36,7 @@ body section#executiveboard .board-container {
 body section#testimonials {
   padding: 80px 80px;
   font-size: 24px;
-  background-color: #01647e;
+  background-color: #1ad3f1;
   color: #edeff4;
 }
 body section#membership {
@@ -48,12 +48,12 @@ body section#membership .membership-content {
 }
 body section#events {
   padding: 70px 70px;
-  background-color: #033c4b;
+  background-color: #1093a7;
   color: #edeff4;
 }
 body section#contact {
   padding: 120px 120px;
-  background-color: #01647e;
+  background-color: #1ad3f1;
   color: #edeff4;
 }
 body footer {
