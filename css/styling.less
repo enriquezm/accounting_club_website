@@ -22,6 +22,7 @@
 
 body {
 	font-family: 'Raleway', sans-serif;
+	padding-top: 50px;
 	font-size: 22px;
 	a {
 		color: @medium-blue;
@@ -29,18 +30,22 @@ body {
 			text-decoration: none;
 		}
 	}
-	nav.navbar {
-		padding: 5px 10px;
+	nav {
+		background-color: @white;
+		a {
+			font-size: 18px;
+			color: @dark-blue;
+		}
 	}
 	section#home {
 		
 	}
 	section#about {
-		padding: 100px 70px 120px 70px;
+		padding-bottom: 60px;
 		background-image: url("../images/crossword.png");
 		color: @color-two;
 		#about-us-content {
-			padding: 10px 100px 50px 100px;
+			padding-top: 20px;
 		}
 		.btn {
 			background-color: @color-two;
@@ -57,11 +62,18 @@ body {
 		}
 	}
 	section#membership {
-		padding: 120px 120px;
-		background-color: @color-one;
+		padding-top: 60px;
+		padding-bottom: 80px;
+		background-color: @dark-blue;
 		color: @white;
+		h2 {
+			margin-bottom: 60px;
+		}
+		p {
+			font-size: 18px;
+		}
 		.membership-content {
-			padding: 50px;
+			
 		}
 		.btn {
 			background-color: @color-two;
@@ -69,30 +81,37 @@ body {
 		}
 	}
 	section#executiveboard {
-		padding: 100px 100px;
-		background-image: url("../images/crossword.png");
+		padding-top: 60px;
+		padding-bottom: 60px;
+		color: @white;
+		background-image: url("../images/black_linen_v2.png");
+		h2 {
+			margin-bottom: 60px;
+		}
 		.board-container {
 			margin-bottom: 50px;
+			color: @white;
 		}
-	}
-	section#testimonials {
-		padding: 80px 80px;
-		font-size: 24px;
-		background-color: @color-two;
-		color: @color-three;
 	}
 	section#events {
 		padding: 70px 70px;
 		background-color: @dark-blue;
-		color: @cloud-white;
+		color: @white;
+	}
+	section#testimonials {
+		padding: 80px 80px;
+		font-size: 24px;
+		background-color: @light-blue;
+		color: @color-three;
 	}
 	section#contact {
 		padding: 120px 120px;
-		background-color: @light-blue;
-		color: @cloud-white;
+		background-image: url("../images/black_linen_v2.png");
+		color: @white;
 	}
 	footer {
 		padding: 40px 40px;
+		background-color: @white;
 		color: @flat-wet-asphalt;
 	}
 	.modal-dialog {
