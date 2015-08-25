@@ -26,21 +26,8 @@
 					</li>
 				</ul>
 			</div>
-			<!--These pages still need to be created-->
 			<div class="col-md-4 text-right">
 				<ul class="list-inline quicklinks">
-					<!-- <li>
-						<a href="<?php echo get_site_url(); ?>/links">Other Links</a>
-					</li>
-					<li>
-						<a href="<?php echo get_site_url(); ?>/bap">BAP</a>
-					</li>
-					<li>
-						<a href="<?php echo get_site_url(); ?>/ima">IMA</a>
-					</li>
-					<li>
-						<a href="<?php echo get_site_url(); ?>/archives">Archive</a>
-					</li> -->
 					<?php wp_list_pages('exclude=8&sort_column=menu_order&title_li='); ?>
 				</ul>
 			</div>
@@ -48,15 +35,8 @@
 	</div>
 </footer>
 <?php wp_footer(); ?>
-
-<!-- jQuery -->
-<script src='<?php bloginfo('template_directory'); ?>/js/jquery-2.1.4.min.js' type='text/javascript' ></script>
 <!-- Bootstrap -->
 <script src='<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js' type='text/javascript' ></script>
-<!-- Calendar Scripts -->
-<script src='<?php bloginfo('template_directory'); ?>/js/moment.min.js' type='text/javascript' ></script>
-<script src='<?php bloginfo('template_directory'); ?>/fullcalendar/fullcalendar.min.js' type='text/javascript' ></script>
-<script src='<?php bloginfo('template_directory'); ?>/fullcalendar/gcal.js' type='text/javascript' ></script>
 <!-- Custom JS -->
 <script src='<?php bloginfo('template_directory'); ?>/js/main.js' type='text/javascript' ></script>
 
