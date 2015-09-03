@@ -28,7 +28,8 @@
 			</div>
 			<div class="col-md-4 text-right">
 				<ul class="list-inline quicklinks">
-					<?php wp_list_pages('exclude=8&sort_column=menu_order&title_li='); ?>
+					<li><a href="http://www2.hawaii.edu/~bap/">BAP</a></li>
+					<li><a href="http://www.imanet.org/">IMA</a></li>
 				</ul>
 			</div>
 		</div>
