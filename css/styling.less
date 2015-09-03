@@ -8,7 +8,7 @@
 
 // New Global Colors
 @color-one: #1093A7;
-@color-two: #24454C;
+@color-two: #424242;
 @color-three: #DEF2F3;
 @color-four: #589BA4;
 @color-five: #1AD3F1;
@@ -37,110 +37,84 @@ body {
 			color: @dark-blue;
 		}
 	}
-	section#home {
-		
-	}
-	section#about {
-		padding-bottom: 60px;
-		background-image: url("../images/crossword.png");
-		color: @color-two;
-		#about-us-content {
-			padding-top: 20px;
-		}
-		.btn {
-			background-color: @color-two;
-			color: @white;
-		}
-	}
-	section#president-blurb {
-		padding-top: 40px;
-		padding-bottom: 40px;
-		background-color: @color-two;
-		color: @color-three;
-		.president-blurb-content {
-			margin: 80px 10px;
-		}
-	}
-	section#membership {
-		padding-top: 60px;
-		padding-bottom: 80px;
-		background-color: @dark-blue;
-		color: @white;
-		h2 {
-			margin-bottom: 60px;
-		}
-		p {
-			font-size: 18px;
-		}
-		.membership-content {
-			
-		}
-		.btn {
-			background-color: @color-two;
-			color: @white;
-		}
-	}
-	section#executiveboard {
+	section {
 		padding-top: 60px;
 		padding-bottom: 60px;
-		color: @white;
-		background-image: url("../images/black_linen_v2.png");
-		h2 {
-			margin-bottom: 60px;
+		&#about {
+			background-image: url("../images/crossword.png");
+			color: @color-two;
+			#about-us-content {
+				padding-top: 20px;
+			}
+			.btn {
+				background-color: @color-two;
+				color: @white;
+			}
 		}
-		.board-container {
-			margin-bottom: 50px;
+		&#membership {
+			background-image: url("../images/membership_bg.jpg");
+			color: @white;
+			h2 {
+				margin-bottom: 60px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+			p {
+				font-size: 18px;
+			}
+			.membership-content {
+				
+			}
+			.btn {
+				background-color: @color-two;
+				color: @white;
+			}
+		}
+		&#recruitment {
+			color: @white;
+			background-image: url("../images/black_linen_v2.png");
+			h1 {
+				margin-bottom: 50px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+			p {
+				margin-bottom: 50px;
+			}
+		}
+		&#executiveboard {
+			color: @white;
+			background-image: url("../images/black_linen_v2.png");
+			h2 {
+				margin-bottom: 60px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+			.board-container {
+				margin-bottom: 50px;
+				color: @white;
+			}
+		}
+		&#events {
+			h2 {
+				margin-bottom: 60px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+			background-color: @dark-blue;
+			color: @white;
+		}
+		&#contact {
+			background-image: url("../images/black_linen_v2.png");
 			color: @white;
 		}
 	}
-	section#events {
-		padding: 70px 70px;
-		background-color: @dark-blue;
-		color: @white;
-	}
-	section#testimonials {
-		padding: 80px 80px;
-		font-size: 24px;
-		background-color: @light-blue;
-		color: @color-three;
-	}
-	section#contact {
-		padding: 120px 120px;
-		background-image: url("../images/black_linen_v2.png");
-		color: @white;
+	.modal {
+		font-size: 14px;
 	}
 	footer {
 		padding: 40px 40px;
 		background-color: @white;
 		color: @flat-wet-asphalt;
-	}
-	.modal-dialog {
-		position: fixed;
-		top: 0;
-		right: 0;
-		bottom: 0;
-		left: 0;
-		background: rgba(0, 0, 0, 0.8);
-		z-index: 99999;
-		display: none;
-		opacity: 1;
-		-webkit-transition: opacity 400ms ease-in;
-		-moz-transition: opacity 400ms ease-in;
-		transition: opacity 400ms ease-in;
-		pointer-events: none;
-		&:target {
-			opacity: 1;
-			diplay: block;
-			pointer-events: auto;
-		}
-		.modal-content {
-			width: 400px;
-			position: relative;
-			margin: 10% auto;
-			padding: 5px 20px 13px 20px;
-			border-radius: 10px;
-			background: #fff;
-
-		}
 	}
 }

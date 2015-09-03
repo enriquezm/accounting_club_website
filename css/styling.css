@@ -16,102 +16,80 @@ body nav a {
   font-size: 18px;
   color: #033c4b;
 }
-body section#about {
+body section {
+  padding-top: 60px;
   padding-bottom: 60px;
+}
+body section#about {
   background-image: url("../images/crossword.png");
-  color: #24454c;
+  color: #424242;
 }
 body section#about #about-us-content {
   padding-top: 20px;
 }
 body section#about .btn {
-  background-color: #24454c;
+  background-color: #424242;
   color: #ffffff;
 }
-body section#president-blurb {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  background-color: #24454c;
-  color: #def2f3;
-}
-body section#president-blurb .president-blurb-content {
-  margin: 80px 10px;
-}
 body section#membership {
-  padding-top: 60px;
-  padding-bottom: 80px;
-  background-color: #033c4b;
+  background-image: url("../images/membership_bg.jpg");
   color: #ffffff;
 }
 body section#membership h2 {
   margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
 }
 body section#membership p {
   font-size: 18px;
 }
 body section#membership .btn {
-  background-color: #24454c;
+  background-color: #424242;
   color: #ffffff;
 }
+body section#recruitment {
+  color: #ffffff;
+  background-image: url("../images/black_linen_v2.png");
+}
+body section#recruitment h1 {
+  margin-bottom: 50px;
+  font-size: 32px;
+  font-weight: 600;
+}
+body section#recruitment p {
+  margin-bottom: 50px;
+}
 body section#executiveboard {
-  padding-top: 60px;
-  padding-bottom: 60px;
   color: #ffffff;
   background-image: url("../images/black_linen_v2.png");
 }
 body section#executiveboard h2 {
   margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
 }
 body section#executiveboard .board-container {
   margin-bottom: 50px;
   color: #ffffff;
 }
 body section#events {
-  padding: 70px 70px;
   background-color: #033c4b;
   color: #ffffff;
 }
-body section#testimonials {
-  padding: 80px 80px;
-  font-size: 24px;
-  background-color: #01647e;
-  color: #def2f3;
+body section#events h2 {
+  margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
 }
 body section#contact {
-  padding: 120px 120px;
   background-image: url("../images/black_linen_v2.png");
   color: #ffffff;
+}
+body .modal {
+  font-size: 14px;
 }
 body footer {
   padding: 40px 40px;
   background-color: #ffffff;
   color: #34495e;
-}
-body .modal-dialog {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.8);
-  z-index: 99999;
-  display: none;
-  opacity: 1;
-  -webkit-transition: opacity 400ms ease-in;
-  -moz-transition: opacity 400ms ease-in;
-  transition: opacity 400ms ease-in;
-  pointer-events: none;
-}
-body .modal-dialog:target {
-  opacity: 1;
-  diplay: block;
-  pointer-events: auto;
-}
-body .modal-dialog .modal-content {
-  width: 400px;
-  position: relative;
-  margin: 10% auto;
-  padding: 5px 20px 13px 20px;
-  border-radius: 10px;
-  background: #fff;
 }
