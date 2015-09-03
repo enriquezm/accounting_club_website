@@ -17,6 +17,8 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/icon.ico" />
 
+	<!-- Properly enqueue scripts/styles -->
+
 	<!-- Bootstrap Core CSS -->
 	<link href="<?php bloginfo(stylesheet_directory); ?>/css/bootstrap.min.css" rel="stylesheet"/>
 	<!-- Font Awesome Icons -->
