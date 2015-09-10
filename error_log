@@ -1,0 +1,2 @@
+[06-Sep-2015 19:20:57 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/acctclub/public_html/wp-content/themes/club-website/index.php on line 14
+[06-Sep-2015 19:22:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/acctclub/public_html/wp-content/themes/club-website/index.php on line 14

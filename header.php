@@ -13,6 +13,8 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="accounting club at the university of hawaii at manoa" />
+	<meta name="keywords" content="accounting club, university of hawaii, institute of management accountants, college of business, school of accountancy, ima, uh, cba, soa" />
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/icon.ico" />
@@ -70,7 +72,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#page-top">Accounting Club at UH</a>
+					<a class="navbar-brand" href="#page-top">Accounting Club at UH Manoa</a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<!-- This section of code is the tool bar that scrolls down to sections on Website -->

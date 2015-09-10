@@ -381,7 +381,6 @@ get_header(); ?>
 
 <section id="contact">
 	<div class="container">
-		<h2 class="text-center"><?php echo $contact_us_section_title ?></h2>
 		<div class="row">
 			<div class="col-xs-12 col-md-12 col-md-12 text-center">
 				<h3>Accounting Club</h3>
