@@ -116,11 +116,27 @@ add_action( 'widgets_init', 'club_website_widgets_init' );
  * Enqueue scripts and styles.
  */
 function club_website_scripts() {
+	// jQuery
+	wp_enqueue_script( 'jquery' );
+	// Default Wordpress
 	wp_enqueue_style( 'club-website-style', get_stylesheet_uri() );
-
 	wp_enqueue_script( 'club-website-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20120206', true );
-
 	wp_enqueue_script( 'club-website-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
+	// Bootstrap Core CSS
+	wp_enqueue_style( 'boostrap-style', get_template_directory_uri() . '/css/bootstrap.min.css' );
+	// Font Awesome Icons
+	wp_enqueue_style( 'font-awesome-style', get_template_directory_uri() . '/css/font-awesome/css/font-awesome.min.css' );
+	// Custom CSS
+	wp_enqueue_style( 'custom-style', get_template_directory_uri() . '/css/styling.css' );
+	// Calendar CSS
+	wp_enqueue_style( 'fullcalendar-style', get_template_directory_uri() . '/fullcalendar/fullcalendar.css' );
+	// iHover Styling
+	wp_enqueue_style( 'ihover-style', get_template_directory_uri() . '/css/ihover.css' );
+	//  Google Font
+	wp_enqueue_style( 'google-roboto-style', 'https://fonts.googleapis.com/css?family=Roboto:400,700' );
+	// Calendar Scripts
+	wp_enqueue_script( 'cal-moment', get_template_directory_uri(). '/js/moment.min.js', array(), '', true );
+	wp_enqueue_script( 'fullcalendar', get_template_directory_uri(). '/fullcalendar/fullcalendar.js', array(), '', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
