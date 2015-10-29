@@ -16,7 +16,7 @@ body .navbar-default {
 }
 body .navbar-default a {
   font-size: 18px;
-  color: #033c4b;
+  color: #033C4B;
 }
 body section {
   padding-top: 60px;
@@ -31,11 +31,11 @@ body section#about #about-us-content {
 }
 body section#about .btn {
   background-color: #424242;
-  color: #ffffff;
+  color: #FFF;
 }
 body section#membership {
-  background: rgba(255, 255, 255, 0.9);
-  color: #000000;
+  background: #ffffff;
+  color: #000;
 }
 body section#membership h2 {
   margin-bottom: 60px;
@@ -46,7 +46,7 @@ body section#membership p {
   font-size: 18px;
 }
 body section#membership .btn {
-  background-color: #1093a7;
+  background-color: #1093A7;
   border: none;
   border-radius: 0;
 }
@@ -56,7 +56,7 @@ body section#membership .btn:hover {
 body section#recruitment {
   background: transparent;
   height: 500px;
-  color: #000000;
+  color: #000;
 }
 body section#recruitment h1 {
   margin-bottom: 50px;
@@ -64,11 +64,11 @@ body section#recruitment h1 {
   font-weight: 900;
 }
 body section#recruitment p {
-  color: #ffffff;
+  color: #FFF;
   margin-bottom: 50px;
 }
 body section#recruitment .btn {
-  background-color: #1093a7;
+  background-color: #1093A7;
   border: none;
   border-radius: 0;
 }
@@ -76,7 +76,7 @@ body section#recruitment .btn:hover {
   background-color: #424242;
 }
 body section#executiveboard {
-  color: #ffffff;
+  color: #FFF;
   background-image: url("../images/black_linen_v2.png");
 }
 body section#executiveboard h2 {
@@ -86,11 +86,11 @@ body section#executiveboard h2 {
 }
 body section#executiveboard .board-container {
   margin-bottom: 50px;
-  color: #ffffff;
+  color: #FFF;
 }
 body section#events {
   background: rgba(3, 60, 75, 0.8);
-  color: #ffffff;
+  color: #FFF;
 }
 body section#events h2 {
   margin-bottom: 60px;
@@ -99,13 +99,13 @@ body section#events h2 {
 }
 body section#contact {
   background-image: url("../images/black_linen_v2.png");
-  color: #ffffff;
+  color: #FFF;
 }
 body .modal {
   font-size: 14px;
 }
 body footer {
   padding: 40px 40px;
-  background-color: #ffffff;
+  background-color: #FFF;
   color: #34495e;
 }
