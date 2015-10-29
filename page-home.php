@@ -97,17 +97,15 @@ get_header(); ?>
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-				<h1>Recruitment Week is here!</h1>
+				<h1>Accounting Club at UH Manoa</h1>
 				<p>
-					Come visit the <b>Accounting Club</b> table in the <b>Shidler</b> hallways during recruitment week! <br/>
-					We'll be here from <b>9:30am - 2pm</b>!
+					Established in 1964, the Accounting Club is a proud Student Chapter of the <a href="http://www.imanet.org/">Institute of Management Accountants</a> whose main goal is to promote the professional and personal development of its members.
 				</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-				<span><button data-toggle="modal" data-target="#aboutModal" class="btn btn-primary btn-lg">About</button></span>
-				<span><button data-toggle="modal" data-target="#memModal" class="btn btn-success btn-lg">Membership</button></span>
+				<button data-toggle="modal" data-target="#aboutModal" class="btn btn-primary btn-lg">Read More</button>
 			</div>
 		</div>
 	</div>
@@ -149,15 +147,11 @@ get_header(); ?>
 				</div>
 			</div>
 		</div>
-		<!-- NOT YET IMPLEMENTED --------------------
 		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 text-center">
-					<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#memberModal">
-						How to Join
-					</button> 
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+				<button data-toggle="modal" data-target="#memModal" class="btn btn-success btn-lg">How to Join</button>
 			</div>
 		</div>
-		-->
 	</div>
 </section>
 
@@ -217,6 +211,9 @@ get_header(); ?>
 					<ul class="list-inline social-buttons">
 						<li>
 							<a href="mailto:<?php echo $treasurer_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
+						</li>
+						<li>
+							<a href="<?php echo $treasurer_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -398,7 +395,7 @@ get_header(); ?>
 	</div>
 </section>
 <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="aboutModal">
-	<div class="modal-dialog" role="document">
+	<div class="modal-dialog modal-lg" role="document">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -436,7 +433,7 @@ get_header(); ?>
 	</div>
 </div>
 <div class="modal fade" id="memModal" tabindex="-1" role="dialog" aria-labelledby="memModal">
-	<div class="modal-dialog" role="document">
+	<div class="modal-dialog modal-lg" role="document">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>

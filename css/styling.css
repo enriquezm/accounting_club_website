@@ -1,7 +1,9 @@
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding-top: 50px;
   font-size: 22px;
+  background-image: url("../images/ac_background.jpg");
+  background-attachment: fixed;
 }
 body a {
   color: #015064;
@@ -9,10 +11,10 @@ body a {
 body a:hover {
   text-decoration: none;
 }
-body nav {
-  background-color: #ffffff;
+body .navbar-default {
+  background: rgba(255, 255, 255, 0.9);
 }
-body nav a {
+body .navbar-default a {
   font-size: 18px;
   color: #033c4b;
 }
@@ -32,8 +34,8 @@ body section#about .btn {
   color: #ffffff;
 }
 body section#membership {
-  background-image: url("../images/membership_bg.jpg");
-  color: #ffffff;
+  background: rgba(255, 255, 255, 0.9);
+  color: #000000;
 }
 body section#membership h2 {
   margin-bottom: 60px;
@@ -44,20 +46,34 @@ body section#membership p {
   font-size: 18px;
 }
 body section#membership .btn {
+  background-color: #1093a7;
+  border: none;
+  border-radius: 0;
+}
+body section#membership .btn:hover {
   background-color: #424242;
-  color: #ffffff;
 }
 body section#recruitment {
-  color: #ffffff;
-  background-image: url("../images/black_linen_v2.png");
+  background: transparent;
+  height: 500px;
+  color: #000000;
 }
 body section#recruitment h1 {
   margin-bottom: 50px;
-  font-size: 32px;
-  font-weight: 600;
+  font-size: 72px;
+  font-weight: 900;
 }
 body section#recruitment p {
+  color: #ffffff;
   margin-bottom: 50px;
+}
+body section#recruitment .btn {
+  background-color: #1093a7;
+  border: none;
+  border-radius: 0;
+}
+body section#recruitment .btn:hover {
+  background-color: #424242;
 }
 body section#executiveboard {
   color: #ffffff;
@@ -73,7 +89,7 @@ body section#executiveboard .board-container {
   color: #ffffff;
 }
 body section#events {
-  background-color: #033c4b;
+  background: rgba(3, 60, 75, 0.8);
   color: #ffffff;
 }
 body section#events h2 {

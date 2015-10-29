@@ -29,13 +29,14 @@
 	<link href="<?php bloginfo(stylesheet_directory); ?>/css/styling.css" rel="stylesheet"/>
 	<!-- Calendar CSS -->
 	<link href="<?php bloginfo('template_directory'); ?>/fullcalendar/fullcalendar.css" rel="stylesheet"/>
+	<link href="<?php bloginfo('template_directory'); ?>/css/ihover.css" rel="stylesheet"/>
 	<!-- jQuery -->
 	<script src='<?php bloginfo('template_directory'); ?>/js/jquery-2.1.4.min.js' type='text/javascript' ></script>
 	<!-- Calendar Scripts -->
 	<script src='<?php bloginfo('template_directory'); ?>/js/moment.min.js' type='text/javascript' ></script>
 	<script src='<?php bloginfo('template_directory'); ?>/fullcalendar/fullcalendar.js' type='text/javascript' ></script>
 	<!-- Google Font -->
-	<link href='https://fonts.googleapis.com/css?family=Raleway:900,600,400' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 	<?php wp_head(); ?>
 
 	<!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -72,18 +73,12 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#page-top">Accounting Club at UH Manoa</a>
+					<a class="navbar-brand" href="#recruitment">Accounting Club at UH Manoa</a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<!-- This section of code is the tool bar that scrolls down to sections on Website -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="page-scroll">
-							<a href="#recruitment">Home</a>
-						</li><!--
-						<li class="page-scroll">
-							<a href="#about">About</a>
-						</li> -->
 						<li class="page-scroll">
 							<a href="#membership">Membership</a>
 						</li>

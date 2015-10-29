@@ -21,17 +21,19 @@
 //Mixins
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	padding-top: 50px;
 	font-size: 22px;
+	background-image: url("../images/ac_background.jpg");
+	background-attachment: fixed;
 	a {
 		color: @medium-blue;
 		&:hover {
 			text-decoration: none;
 		}
 	}
-	nav {
-		background-color: @white;
+	.navbar-default {
+		background: rgba(255, 255, 255, 0.9);
 		a {
 			font-size: 18px;
 			color: @dark-blue;
@@ -52,8 +54,8 @@ body {
 			}
 		}
 		&#membership {
-			background-image: url("../images/membership_bg.jpg");
-			color: @white;
+			background: rgba(255, 255, 255, 1);
+			color: @black;
 			h2 {
 				margin-bottom: 60px;
 				font-size: 32px;
@@ -66,20 +68,36 @@ body {
 				
 			}
 			.btn {
-				background-color: @color-two;
-				color: @white;
+				background-color: @color-one;
+				border: none;
+				border-radius: 0;
+				&:hover {
+					background-color: @color-two;
+				}
 			}
 		}
 		&#recruitment {
-			color: @white;
-			background-image: url("../images/black_linen_v2.png");
+			background: transparent;
+			height: 500px;
+			color: @black;
+			//background-image: url("../images/ac_background.jpg");
+			//background-attachment: fixed;
 			h1 {
 				margin-bottom: 50px;
-				font-size: 32px;
-				font-weight: 600;
+				font-size: 72px;
+				font-weight: 900;
 			}
 			p {
+				color: @white;
 				margin-bottom: 50px;
+			}
+			.btn {
+				background-color: @color-one;
+				border: none;
+				border-radius: 0;
+				&:hover {
+					background-color: @color-two;
+				}
 			}
 		}
 		&#executiveboard {
@@ -96,13 +114,13 @@ body {
 			}
 		}
 		&#events {
+			background: rgba(3, 60, 75, 0.8);
+			color: @white;
 			h2 {
 				margin-bottom: 60px;
 				font-size: 32px;
 				font-weight: 600;
 			}
-			background-color: @dark-blue;
-			color: @white;
 		}
 		&#contact {
 			background-image: url("../images/black_linen_v2.png");
