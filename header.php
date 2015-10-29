@@ -19,24 +19,6 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/icon.ico" />
 
-	<!-- Properly enqueue scripts/styles -->
-
-	<!-- Bootstrap Core CSS -->
-	<link href="<?php bloginfo(stylesheet_directory); ?>/css/bootstrap.min.css" rel="stylesheet"/>
-	<!-- Font Awesome Icons -->
-	<link href="<?php bloginfo(stylesheet_directory); ?>/css/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
-	<!-- Custom CSS -->
-	<link href="<?php bloginfo(stylesheet_directory); ?>/css/styling.css" rel="stylesheet"/>
-	<!-- Calendar CSS -->
-	<link href="<?php bloginfo('template_directory'); ?>/fullcalendar/fullcalendar.css" rel="stylesheet"/>
-	<link href="<?php bloginfo('template_directory'); ?>/css/ihover.css" rel="stylesheet"/>
-	<!-- jQuery -->
-	<script src='<?php bloginfo('template_directory'); ?>/js/jquery-2.1.4.min.js' type='text/javascript' ></script>
-	<!-- Calendar Scripts -->
-	<script src='<?php bloginfo('template_directory'); ?>/js/moment.min.js' type='text/javascript' ></script>
-	<script src='<?php bloginfo('template_directory'); ?>/fullcalendar/fullcalendar.js' type='text/javascript' ></script>
-	<!-- Google Font -->
-	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 	<?php wp_head(); ?>
 
 	<!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -92,4 +74,3 @@
 				</div>
 			</div><!-- Container -->
 		</nav><!-- navbar -->
-	
