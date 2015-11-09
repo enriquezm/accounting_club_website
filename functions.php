@@ -128,6 +128,7 @@ function club_website_scripts() {
 	wp_enqueue_style( 'font-awesome-style', get_template_directory_uri() . '/css/font-awesome/css/font-awesome.min.css' );
 	// Custom CSS
 	wp_enqueue_style( 'custom-style', get_template_directory_uri() . '/css/styling.css' );
+	wp_enqueue_style( 'candidate-page-style', get_template_directory_uri() . '/css/candidate-view.css');
 	// Calendar CSS
 	wp_enqueue_style( 'fullcalendar-style', get_template_directory_uri() . '/fullcalendar/fullcalendar.css' );
 	// iHover Styling
