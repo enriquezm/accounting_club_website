@@ -106,6 +106,7 @@ get_header(); ?>
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
 				<button data-toggle="modal" data-target="#aboutModal" class="btn btn-primary btn-lg">Read More</button>
+				<a href="<?php echo site_url(); ?>/candidates" class="btn btn-primary btn-lg">Candidates</a>
 			</div>
 		</div>
 	</div>
@@ -166,9 +167,9 @@ get_header(); ?>
 		<div class ="row">
 			<div class ="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-center">
 				<div class="board-container">
-					<?php if(!empty( $president_image  ) ) :?> 
+					<?php if(!empty( $president_image  ) ) :?>
 					<img class="img-circle" src="<?php echo $president_image['url']; ?>" alt=" <?php echo $president_image['alt']; ?>" />
-					<?php endif; ?> 
+					<?php endif; ?>
 					<h4><?php echo $president_name; ?></h4>
 					<p class="text-muted">
 						President
@@ -471,7 +472,7 @@ get_header(); ?>
 								<li>Obtaining valuable knowledge and experience from participating in a variety of events and interacting with different people. </li>
 							</ul>
 							<p>
-								To obtain active status, you must attend and actively participate in a set amount of all the Accounting Club's offered events. Mandatory events can not be waived unless otherwise approved by the executive board. Active status can not be achieved without fulfilling mandatory events requirements. 
+								To obtain active status, you must attend and actively participate in a set amount of all the Accounting Club's offered events. Mandatory events can not be waived unless otherwise approved by the executive board. Active status can not be achieved without fulfilling mandatory events requirements.
 							</p>
 							<h4><b>Waivers</b></h4>
 							<p>Required events may be waived by participating in any other additional event. Required events may also be waived by fundraising an additional $15.</p>
@@ -487,8 +488,8 @@ get_header(); ?>
 						</div>
 					</div>
 				</div>
-				
-				
+
+
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
