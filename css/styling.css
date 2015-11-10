@@ -53,9 +53,14 @@ body section#membership .btn:hover {
   background-color: #424242;
 }
 body section#recruitment {
-  background: transparent;
+  background: no-repeat center center;
+  background-image: linear-gradient(#093743, rgba(0, 0, 0, 0.5)), url('../images/ac_logo_bg.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   height: 500px;
-  color: #000;
+  color: #FFF;
 }
 body section#recruitment h1 {
   margin-bottom: 50px;
@@ -107,4 +112,7 @@ body footer {
   padding: 40px 40px;
   background-color: #FFF;
   color: #34495e;
+}
+#candidates {
+  background-image: url('../images/black_linen_v2.png');
 }

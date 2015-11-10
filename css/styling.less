@@ -84,9 +84,18 @@ body {
 			}
 		}
 		&#recruitment {
-			background: transparent;
+			background: no-repeat center center;
+			background-image: linear-gradient(
+				rgba(9, 55, 67, 1),
+				rgba(0, 0, 0, 0.5)
+				),
+				url('../images/ac_logo_bg.png');
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
 			height: 500px;
-			color: @black;
+			color: @white;
 			//background-image: url("../images/ac_background.jpg");
 			//background-attachment: fixed;
 			h1 {
