@@ -36,10 +36,5 @@
 	</div>
 </footer>
 <?php wp_footer(); ?>
-<!-- Bootstrap -->
-<script src='<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js' type='text/javascript' ></script>
-<!-- Custom JS -->
-<script src='<?php bloginfo('template_directory'); ?>/js/main.js' type='text/javascript' ></script>
-
 </body>
 </html>
