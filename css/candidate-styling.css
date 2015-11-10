@@ -1,0 +1,12 @@
+#candidates {
+  color: #FFF;
+}
+.modal .modal-dialog {
+  border-radius: 0px;
+}
+.modal .modal-body {
+  color: #34495e;
+}
+.modal .modal-body .cand_position {
+  font-size: 22px;
+}
