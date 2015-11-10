@@ -61,15 +61,13 @@
 				<!-- This section of code is the tool bar that scrolls down to sections on Website -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="page-scroll">
-							<a href="#membership">Membership</a>
-						</li>
-						<li class="page-scroll">
-							<a href="#executiveboard">The Board</a>
-						</li>
-						<li class="page-scroll">
-							<a href="#events">Events</a>
-						</li>
+						<?php
+						$args = array(
+							'title_li' => '',
+							'exclude_tree' => '149',
+							'sort_order' => 'DESC'
+						);
+						wp_list_pages($args); ?>
 					</ul>
 				</div>
 			</div><!-- Container -->
