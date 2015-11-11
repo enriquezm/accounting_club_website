@@ -20,8 +20,15 @@ $dir_of_info_systems = 'Director of Information Systems';
 
 	<div id="candidates" class="container">
 		<div class="row">
-			<div class="col-xs-12">
+			<div class="col-xs-12 text-center">
 				<h1 class="text-center">Spring '16 	Candidates</h1>
+				<p class="blurb">
+					Hello everyone! Please take the time to read more and learn about the Spring 2016 Executive Board candidates,
+					and thank you to all of you who have decided to run for elections!
+				</p>
+				<p class="blurb">
+					Our election meeting will be on November 19th, so take the time if you haven't already to get to know our candidates!
+				</p>
 			</div>
 		</div>
 		<hr/>
