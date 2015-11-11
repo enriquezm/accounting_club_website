@@ -2,6 +2,9 @@
   font-family: 'Roboto', sans-serif;
   color: #FFF;
 }
+#candidates .blurb {
+  font-size: 18px;
+}
 #candidates .row {
   margin-bottom: 70px;
 }
