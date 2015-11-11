@@ -1,5 +1,25 @@
 #candidates {
+  font-family: 'Roboto', sans-serif;
   color: #FFF;
+}
+#candidates .row {
+  margin-bottom: 70px;
+}
+#candidates .btn {
+  background-color: #1093A7;
+  border: none;
+  border-radius: 0;
+}
+#candidates .btn:hover {
+  background-color: #424242;
+}
+.modal .btn {
+  background-color: #1093A7;
+  border: none;
+  border-radius: 0;
+}
+.modal .btn:hover {
+  background-color: #424242;
 }
 .modal .modal-dialog {
   border-radius: 0px;

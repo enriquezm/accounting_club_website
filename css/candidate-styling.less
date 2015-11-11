@@ -5,13 +5,35 @@
 
 @white: #FFF;
 
+@color-one: #1093A7;
+@color-two: #424242;
 @flat-wet-asphalt: #34495e;
 
 #candidates {
+  font-family: 'Roboto', sans-serif;
   color: @white;
+  .row {
+    margin-bottom: 70px;
+  }
+  .btn {
+    background-color: @color-one;
+    border: none;
+    border-radius: 0;
+    &:hover {
+      background-color: @color-two;
+    }
+  }
 }
 
 .modal {
+  .btn {
+    background-color: @color-one;
+    border: none;
+    border-radius: 0;
+    &:hover {
+      background-color: @color-two;
+    }
+  }
   .modal-dialog {
     border-radius: 0px;
   }
