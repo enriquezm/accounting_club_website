@@ -53,7 +53,7 @@
 						<?php
 						$args = array(
 							'title_li' => '',
-							'exclude_tree' => '149',
+							'exclude_tree' => '152',
 							'sort_order' => 'DESC'
 						);
 						wp_list_pages($args); ?>
