@@ -13,6 +13,7 @@
 
 // New Global Colors
 @color-one: #1093A7;
+@color-one-light: #14c0da;
 @color-two: #424242;
 @color-three: #DEF2F3;
 @color-four: #589BA4;
@@ -87,7 +88,7 @@ body {
 			background: no-repeat center center;
 			background-image: linear-gradient(
 				rgba(9, 55, 67, 1),
-				rgba(0, 0, 0, 0.5)
+				rgba(9, 55, 67, 0.5)
 				),
 				url('../images/ac_logo_bg.png');
 		  -webkit-background-size: cover;
@@ -96,8 +97,6 @@ body {
 		  background-size: cover;
 			height: 500px;
 			color: @white;
-			//background-image: url("../images/ac_background.jpg");
-			//background-attachment: fixed;
 			h1 {
 				margin-bottom: 50px;
 				font-size: 72px;
@@ -107,7 +106,14 @@ body {
 				color: @white;
 				margin-bottom: 50px;
 			}
+			a {
+				color: @color-one;
+				&:hover {
+					color: @color-one-light;
+				}
+			}
 			.btn {
+				color: @white;
 				background-color: @color-one;
 				border: none;
 				border-radius: 0;
