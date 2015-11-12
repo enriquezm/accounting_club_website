@@ -4,14 +4,33 @@
 // main: css/candidate-styling.less
 
 @white: #FFF;
+@muted: #6f6f6f;
 
 @color-one: #1093A7;
-@color-two: #424242;
+@color-two: rgba(3, 60, 75, 0.8);
 @flat-wet-asphalt: #34495e;
 
+#blurb-section {
+  font-family: 'Roboto', sans-serif;
+  padding: 50px 10px;
+  background-color: @white;
+  color: @color-two;
+  h1 {
+    font-weight: 700;
+  }
+  p {
+    color: @muted;
+    font-size: 20px;
+  }
+}
 #candidates {
+  padding: 20px 10px;
   font-family: 'Roboto', sans-serif;
   color: @white;
+  b {
+    color: @muted;
+    font-size: 24px;
+  }
   .blurb {
     font-size: 18px;
   }
@@ -22,6 +41,7 @@
     background-color: @color-one;
     border: none;
     border-radius: 0;
+    margin-bottom: 15px;
     &:hover {
       background-color: @color-two;
     }
