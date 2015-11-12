@@ -17,26 +17,27 @@ $dir_of_human_resources = 'Director of Human Resources';
 $dir_of_info_systems = 'Director of Information Systems';
 
 ?>
-
-	<div id="candidates" class="container">
+	<div id="blurb-section" class="container-fluid">
 		<div class="row">
-			<div class="col-xs-12 text-center">
+			<div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
 				<h1 class="text-center">Spring '16 	Candidates</h1>
+				<hr />
 				<p class="blurb">
-					Hello everyone! Please take the time to read more and learn about the Spring 2016 Executive Board candidates,
+					Hello everyone! Please take the time to read more and learn about the <b>Spring 2016</b> Executive Board candidates,
 					and thank you to all of you who have decided to run for elections!
 				</p>
 				<p class="blurb">
-					Our election meeting will be on November 19th, so take the time if you haven't already to get to know our candidates!
+					Our election meeting will be on <b>November 19th</b>, so take the time if you haven't already to get to know our candidates!
 				</p>
 			</div>
 		</div>
-		<hr/>
+	</div>
+	<div id="candidates" class="container">
 
 		<!-- Vice Presidents -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $vp; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $vp; ?></h2>
 			</div>
 			<div class ="col-xs-12 col-md-12 text-center">
 				<div class="board-container">
@@ -50,7 +51,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Treasurers -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $treasurer; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $treasurer; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -64,7 +65,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- IBC Senators -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $ibc_senator; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $ibc_senator; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -78,7 +79,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Professional Development -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_prof_development; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_prof_development; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -92,7 +93,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Student Relations -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_student_rels; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_student_rels; ?></h2>
 			</div>
 			<div class ="col-xs-12 col-md-6 text-center">
 				<div class="board-container">
@@ -113,7 +114,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Internal Affairs -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_internal_affairs; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_internal_affairs; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -128,7 +129,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Public Relations -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_pub_rels; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_pub_rels; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -142,7 +143,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Human Resources -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_human_resources; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_human_resources; ?></h2>
 			</div>
 			<div class ="col-xs-12 text-center">
 				<div class="board-container">
@@ -156,7 +157,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		<!-- Director of Information Systems -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><?php echo $dir_of_info_systems; ?></h2>
+				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_info_systems; ?></h2>
 			</div>
 			<div class ="col-xs-12 col-md-4 text-center">
 				<div class="board-container">
