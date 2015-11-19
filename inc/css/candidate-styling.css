@@ -2,13 +2,14 @@
   font-family: 'Roboto', sans-serif;
   padding: 50px 10px;
   background-color: #FFF;
-  color: rgba(3, 60, 75, 0.8);
+  color: #2C3849;
 }
 #blurb-section h1 {
+  font-size: 60px;
   font-weight: 700;
 }
 #blurb-section p {
-  color: #6f6f6f;
+  color: #767678;
   font-size: 20px;
 }
 #candidates {
@@ -16,24 +17,42 @@
   font-family: 'Roboto', sans-serif;
   color: #FFF;
 }
-#candidates b {
-  color: #6f6f6f;
-  font-size: 24px;
+#candidates hr {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+  background-color: rgba(190, 194, 199, 0.5);
+  color: rgba(190, 194, 199, 0.5);
+}
+#candidates h2 {
+  margin-bottom: 50px;
+}
+#candidates h2 b {
+  color: #1093A7;
 }
 #candidates .blurb {
   font-size: 18px;
 }
 #candidates .row {
   margin-bottom: 70px;
+  padding: 20px 5px;
 }
 #candidates .btn {
-  background-color: #1093A7;
+  background-color: #2C3849;
   border: none;
   border-radius: 0;
   margin-bottom: 15px;
 }
 #candidates .btn:hover {
-  background-color: rgba(3, 60, 75, 0.8);
+  background-color: #1093A7;
+}
+#candidates .cand-details h4 {
+  color: #1093A7;
+  font-weight: 700;
+}
+#candidates .cand-details p {
+  font-size: 16px;
 }
 .modal .btn {
   background-color: #1093A7;
@@ -41,7 +60,7 @@
   border-radius: 0;
 }
 .modal .btn:hover {
-  background-color: rgba(3, 60, 75, 0.8);
+  background-color: #2C3849;
 }
 .modal .modal-dialog {
   border-radius: 0px;

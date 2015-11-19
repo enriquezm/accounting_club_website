@@ -1,0 +1,96 @@
+// out: ../css/candidate-styling.css
+// sourcemap: true
+// compress: true
+// main: less/candidate-styling.less
+
+@white: #FFF;
+@muted: #767678;
+
+@color-one: #1093A7;
+@color-two: #2C3849;
+@flat-wet-asphalt: #34495e;
+
+#blurb-section {
+  font-family: 'Roboto', sans-serif;
+  padding: 50px 10px;
+  background-color: @white;
+  color: @color-two;
+  h1 {
+    font-size: 60px;
+    font-weight: 700;
+  }
+  p {
+    color: @muted;
+    font-size: 20px;
+  }
+}
+#candidates {
+  padding: 20px 10px;
+  font-family: 'Roboto', sans-serif;
+  color: @white;
+  hr {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    background-color: rgba(190, 194, 199, 0.5);
+    color: rgba(190, 194, 199, 0.5);;
+  }
+  h2 {
+    margin-bottom: 50px;
+    b {
+      color: @color-one;
+    }
+  }
+  .blurb {
+    font-size: 18px;
+  }
+  .row {
+    margin-bottom: 70px;
+    padding:20px 5px;
+  }
+  .btn {
+    background-color: @color-two;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 15px;
+    &:hover {
+      background-color: @color-one;
+    }
+  }
+  .cand-details {
+    h4 {
+      color: @color-one;
+      font-weight: 700;
+    }
+    p {
+      font-size: 16px;
+    }
+  }
+}
+
+.modal {
+  .btn {
+    background-color: @color-one;
+    border: none;
+    border-radius: 0;
+    &:hover {
+      background-color: @color-two;
+    }
+  }
+  .modal-dialog {
+    border-radius: 0px;
+  }
+  .modal-body {
+    color: @flat-wet-asphalt;
+    .cand_position {
+      font-size: 22px;
+    }
+    .cand_name {
+
+    }
+    .cand_bio {
+
+    }
+  }
+}
