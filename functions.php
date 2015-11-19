@@ -123,23 +123,23 @@ function club_website_scripts() {
 	wp_enqueue_script( 'club-website-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20120206', true );
 	wp_enqueue_script( 'club-website-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20130115', true );
 	// Bootstrap Core
-	wp_enqueue_style( 'boostrap-style', get_template_directory_uri() . '/css/bootstrap.min.css' );
+	wp_enqueue_style( 'boostrap-style', get_template_directory_uri() . '/inc/css/bootstrap.min.css' );
 	wp_enqueue_script( 'bootstrap-script', get_template_directory_uri() . '/js/bootstrap.min.js', array(), '20120206', true );
 	// Font Awesome Icons
-	wp_enqueue_style( 'font-awesome-style', get_template_directory_uri() . '/css/font-awesome/css/font-awesome.min.css' );
+	wp_enqueue_style( 'font-awesome-style', get_template_directory_uri() . '/inc/css/font-awesome/css/font-awesome.min.css' );
 	// Custom CSS
-	wp_enqueue_style( 'custom-style', get_template_directory_uri() . '/css/styling.css' );
-	wp_enqueue_style( 'candidate-page-style', get_template_directory_uri() . '/css/candidate-styling.css');
+	wp_enqueue_style( 'custom-style', get_template_directory_uri() . '/inc/css/styling.css' );
+	wp_enqueue_style( 'candidate-page-style', get_template_directory_uri() . '/inc/css/candidate-styling.css');
 	wp_enqueue_script( 'candidate-page-script', get_template_directory_uri() . '/js/main.js', array(), '20151109', true );
 	// Calendar CSS
-	wp_enqueue_style( 'fullcalendar-style', get_template_directory_uri() . '/fullcalendar/fullcalendar.css' );
+	wp_enqueue_style( 'fullcalendar-style', get_template_directory_uri() . '/inc/css/fullcalendar/fullcalendar.css' );
 	// iHover Styling
-	wp_enqueue_style( 'ihover-style', get_template_directory_uri() . '/css/ihover.css' );
+	wp_enqueue_style( 'ihover-style', get_template_directory_uri() . '/inc/css/ihover.css' );
 	//  Google Font
 	wp_enqueue_style( 'google-roboto-style', 'https://fonts.googleapis.com/css?family=Roboto:400,700' );
 	// Calendar Scripts
 	wp_enqueue_script( 'cal-moment', get_template_directory_uri(). '/js/moment.min.js', array(), '', true );
-	wp_enqueue_script( 'fullcalendar', get_template_directory_uri(). '/fullcalendar/fullcalendar.js', array(), '', true );
+	wp_enqueue_script( 'fullcalendar', get_template_directory_uri(). '/js/fullcalendar.min.js', array(), '', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
