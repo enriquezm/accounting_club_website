@@ -17,11 +17,13 @@ $dir_of_human_resources = 'Director of Human Resources';
 $dir_of_info_systems = 'Director of Information Systems';
 
 ?>
-	<div id="blurb-section" class="container-fluid">
+	<div id="blurb-section" class="container">
 		<div class="row">
-			<div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
+			<div class="col-xs-12 col-md-4">
 				<h1 class="text-center">Spring '16 	Candidates</h1>
-				<hr />
+			</div>
+
+			<div class="col-xs-12 col-md-8">
 				<p class="blurb">
 					Hello everyone! Please take the time to read more and learn about the <b>Spring 2016</b> Executive Board candidates,
 					and thank you to all of you who have decided to run for elections!
@@ -32,154 +34,213 @@ $dir_of_info_systems = 'Director of Information Systems';
 			</div>
 		</div>
 	</div>
-	<div id="candidates" class="container">
+	<div id="candidates" class="container-fluid">
 
 		<!-- Vice Presidents -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $vp; ?></h2>
+				<h2>Running for: <b><?php echo $vp; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 col-md-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/vp_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/vp_1.jpg" alt="Vice President" />
+			</div>
+
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>YeeYan Lim</h4>
-					<a href="#vice_president_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hi AC! My name is YeeYan and I am running to be your next Vice President. Currently, I am a junior double majoring in Accounting and Management. This is my fifth semester in Accounting Club and I have been active in all of the semesters.
+					</p>
+					<a href="#vice_president_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr/>
 
 		<!-- Treasurers -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $treasurer; ?></h2>
+				<h2>Running for: <b><?php echo $treasurer; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/treasurer/1/tr_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/treasurer/1/tr_1.jpg" alt="Treasurer" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Andrew Tam</h4>
-					<a href="#treasurer_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hey AC! My name is Andrew Tam, and I am running to be your next Treasurer. As of right now, I am a Junior double majoring in Accounting and Management. I have been active in Accounting Club for five semesters, and through these semesters I have gotten to know a lot of people and have seen how the club works.
+					</p>
+					<a href="#treasurer_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr />
 
 		<!-- IBC Senators -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $ibc_senator; ?></h2>
+				<h2>Running for: <b><?php echo $ibc_senator; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/ibc_senator/1/ibc_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/ibc_senator/1/ibc_1.jpg" alt="IBC Senator" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Jared Maron</h4>
-					<a href="#ibc_senator_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hi Everyone! My name is Jared Maron and I am running for the IBC Senator Position. I am currently a Sophomore studying Accounting and Economics. This is my first semester in Accounting Club and I am really enjoying my time.
+					</p>
+					<a href="#ibc_senator_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr />
 
 		<!-- Director of Professional Development -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_prof_development; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_prof_development; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_prof_rels/1/pr_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_prof_rels/1/pr_1.jpg" alt="Director of Professional Development" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Matt Lizada</h4>
-					<a href="#dir_of_prof_rels_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hi AC! My name is Matthew Lizada and I am running to be your next Director of Professional Development. I am a Senior majoring in Accounting and have been in the club for 7 semesters. I have been a part of this club’s development and witnessed the changes over the past three and a half years and want to do the best I can to further the growth of the club.
+					</p>
+					<a href="#dir_of_prof_rels_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr />
 
 		<!-- Director of Student Relations -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_student_rels; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_student_rels; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 col-md-6 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_student_rels/1/sr_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_student_rels/1/sr_1.jpg" alt="Director of Student Relations" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Heather Hutchison</h4>
-					<a href="#dir_of_student_rels_01" class="btn btn-primary" data-toggle="modal">About Me</a>
-				</div>
-			</div>
-			<div class ="col-xs-12 col-md-6 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_student_rels/2/sr_2.jpg" alt="Image" />
-					<h4>Troy Uchida</h4>
-					<a href="#dir_of_student_rels_02" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Dear AC Family, my name is Heather Hutchison and I will be running for the position of Director of Student Relations. I am a senior graduating next semester with my bachelors of Accounting and International Business. I have been in AC for three semesters, the last two being active. After being in AC for so long and getting so much out of the club, I feel like it is time to give back. In what better way to give back than with which events I love the most!
+					</p>
+					<a href="#dir_of_student_rels_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<div class="row">
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_student_rels/2/sr_2.jpg" alt="Director of Student Relations" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
+					<h4>Troy Uchida</h4>
+					<p>
+						Hi AC, my name is Troy Uchida and I am running for the position of Director of Student Relations. I am currently a Junior studying for my degree in Accounting. I’ve been an active member of the Accounting Club for the past 2 semesters and have held the position of Inter Business Council Senator during the previous semester. I see the Accounting Club as my home away from home, where I’ve built everlasting friendships that will carry on long after I graduate and well into my professional career. During my time here I have witnessed the club prosper under great leadership and believe that with my experience on board I can contribute to this positive growth once again.
+					</p>
+					<a href="#dir_of_student_rels_02" class="btn btn-primary" data-toggle="modal">Read More</a>
+				</div>
+			</div>
+		</div> <!-- row -->
+		<hr />
 
 		<!-- Director of Internal Affairs -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_internal_affairs; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_internal_affairs; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_internal_affairs/1/ia_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_internal_affairs/1/ia_1.jpg" alt="Director of Internal Affairs" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Michelle Tellio</h4>
-					<a href="#dir_of_internal_affairs_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hello Accounting Club! My name is Michelle Tellio and I’m running for your Director of Internal Affairs. Currently, I am a junior majoring in accounting and minoring in French. This is my second semester in the club which I have been active in for both semesters. Being in the club has made me grow as a person both professionally and personally. It has been a great experience that I have shared with some of the most amazing people. As a board member, I am willing to go the extra mile to help members have the best experience in the club.
+					</p>
+					<a href="#dir_of_internal_affairs_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
-		</div>
-
+		</div><!-- row -->
+		<hr />
 
 		<!-- Director of Public Relations -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_pub_rels; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_pub_rels; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_pub_rel/1/pr_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_pub_rel/1/pr_1.jpg" alt="Director of Public Relations" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Royce Yamamoto</h4>
-					<a href="#dir_of_pub_rels_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hello Accounting Club! My name is Royce Yamamoto and I am running for the Executive Board position of Public Relations. I am currently a Junior majoring in Pre-Business as I will declare my major as Accounting next semester and this is my second semester in Accounting Club. I believe that through this semester, the events, and the people give me great confidence in running for a position for the upcoming semester.
+					</p>
+					<a href="#dir_of_pub_rels_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr />
 
 		<!-- Director of Human Resources -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_human_resources; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_human_resources; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_human_resources/1/hr_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_human_resources/1/hr_1.jpg" alt="Director of Human Resources" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Teal Hoopii</h4>
-					<a href="#dir_of_human_resources_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Aloha AC! My name is Teal Hoopii, and I am running for the Director of Human resources position for the Spring 2016 semester. I am currently in my senior year, pursuing a degree in both Accounting & Management. This semester makes my third semester in Accounting Club and second semester as an active member. I also had the wonderful opportunity of being on the board this semester as the Director of Information Systems. Being apart of the board and being able to devote my time and efforts to you all, gave me a greater appreciate for this club and what it offers. I was able to grow personally, socially, emotionally and professionally.
+					</p>
+					<a href="#dir_of_human_resources_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
+		<hr />
 
 		<!-- Director of Information Systems -->
 		<div class="row">
 			<div class="col-xs-12">
-				<h2 class="text-center"><b>Running for: </b><?php echo $dir_of_info_systems; ?></h2>
+				<h2>Running for: <b><?php echo $dir_of_info_systems; ?></b></h2>
 			</div>
-			<div class ="col-xs-12 col-md-4 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_info_systems/1/is_1.jpg" alt="Image" />
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_info_systems/1/is_1.jpg" alt="Director of Information Systems" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Kristi Kataoka</h4>
-					<a href="#dir_of_info_systems_01" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hi everyone! My name is Kristi Kataoka and I am running to be your next Director of Information Systems. I am currently a Junior planning to major in Finance and International Business. This is my fourth semester as a member of Accounting Club and have continued to enjoy every experience of it. Although I am not an Accounting major, AC has given me an invaluable experience. Not only have I learned more about Accounting itself, but also how professionalism is held in this career. Being in AC has also allowed me to expand my network of not only professionals, but also friendships. I met so many amazing people through joining AC and I really care about everyone in the club, which is why I want to start giving back.
+					</p>
+					<a href="#dir_of_info_systems_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
+		</div>
 
-			<div class ="col-xs-12 col-md-4 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_info_systems/2/is_2.jpg" alt="Image" />
-					<h4>Christopher Moon</h4>
-					<a href="#dir_of_info_systems_02" class="btn btn-primary" data-toggle="modal">About Me</a>
-				</div>
+		<div class="row">
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_info_systems/3/is_3.jpg" alt="Director of Information Systems" />
 			</div>
-
-			<div class ="col-xs-12 col-md-4 text-center">
-				<div class="board-container">
-					<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/2016-candidates/dir_of_info_systems/3/is_3.jpg" alt="Image" />
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
 					<h4>Cullen Cheng</h4>
-					<a href="#dir_of_info_systems_03" class="btn btn-primary" data-toggle="modal">About Me</a>
+					<p>
+						Hey AC! My name is Cullen Cheng and I am running for the position of Director of Information Systems. I am currently a Sophomore studying Accounting and considering a double major in Management Information Systems. I have been an active member in Accounting Club for 3 semesters. For the semesters, I have dedicated to the club, I have learned a lot about the members and goals of AC. AC has helped me expand my horizons on my intrapersonal and interpersonal skills from communicating with the members and professionals. I want to strengthen the bond in AC and I believe being on board will allow me to accomplish this goal. It is in my best interest to help maintain a peaceful and cheerful atmosphere for my fellow members. 
+					</p>
+					<a href="#dir_of_info_systems_03" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
