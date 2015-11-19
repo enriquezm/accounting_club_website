@@ -96,8 +96,8 @@ get_header(); ?>
 <section id="recruitment">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-				<h1>Accounting Club at UH Manoa</h1>
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center about">
+				<h1 id="wwwtitle">Accounting Club at UH Manoa</h1>
 				<p>
 					Established in 1964, the Accounting Club is a proud Student Chapter of the <a href="http://www.imanet.org/">Institute of Management Accountants</a> whose main goal is to promote the professional and personal development of its members.
 				</p>
@@ -115,37 +115,31 @@ get_header(); ?>
 <section class="success" id="membership">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-md-12 col-lg-12 text-center">
+			<div class="col-xs-12 text-center">
 				<h2><?php echo $wwa_title; ?></h2>
 			</div>
 		</div>
 		<div class="row">
-			<div class ="col-xs-12 col-md-4 col-lg-4 text-center">
-				<div class="membership-content">
+			<div class ="col-xs-12 col-md-4 text-center membership-content">
 					<i class="fa fa-university fa-4x"></i>
 					<h3><?php echo $left_column_title; ?></h3>
 					<p>
 						<?php echo $left_column_content; ?>
 					</p>
-				</div>
 			</div>
-			<div class ="col-xs-12 col-md-4 col-lg-4 text-center">
-				<div class="membership-content">
+			<div class ="col-xs-12 col-md-4 text-center membership-content">
 					<i class="fa fa-user-plus fa-4x"></i>
 					<h3><?php echo $middle_column_title; ?></h3>
 					<p>
 						<?php echo $middle_column_content; ?>
 					</p>
-				</div>
 			</div>
-			<div class ="col-xs-12 col-md-4 col-lg-4 text-center">
-				<div class="membership-content">
+			<div class ="col-xs-12 col-md-4 text-center membership-content">
 					<i class="fa fa-users fa-4x"></i>
 					<h3><?php echo $right_column_title; ?></h3>
 					<p>
 						<?php echo $right_column_content; ?>
 					</p>
-				</div>
 			</div>
 		</div>
 		<div class="row">
