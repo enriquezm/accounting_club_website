@@ -1,0 +1,148 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 50px;
+  font-size: 22px;
+  background-image: url("../images/black_linen_v2.png");
+}
+body a {
+  color: #58A4B0;
+}
+body a:hover {
+  text-decoration: none;
+  color: #2C3849;
+}
+body .navbar-default {
+  background-color: #2C3849;
+  border: none;
+}
+body .navbar-default .navbar-brand {
+  color: #FFF;
+  font-weight: 900;
+}
+body .navbar-default .navbar-brand:hover {
+  color: #58A4B0;
+}
+body .navbar-default .page_item a {
+  font-size: 18px;
+  color: #FFF;
+}
+body .navbar-default .page_item a:hover {
+  color: #58A4B0;
+}
+body section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+body section#about {
+  background-image: url("../../images/crossword.png");
+  color: #424242;
+}
+body section#about #about-us-content {
+  padding-top: 20px;
+}
+body section#about .btn {
+  background-color: #424242;
+  color: #FFF;
+}
+body section#membership {
+  background: #ffffff;
+  color: #2C2D30;
+}
+body section#membership h2 {
+  margin-bottom: 60px;
+  font-size: 48px;
+  font-weight: 600;
+}
+body section#membership p {
+  font-size: 18px;
+  color: #767678;
+}
+body section#membership .membership-content {
+  padding: 10px 40px;
+}
+body section#membership .btn {
+  margin-top: 40px;
+  background-color: #2C3849;
+  border: none;
+  border-radius: 0;
+}
+body section#membership .btn:hover {
+  background-color: #424242;
+}
+body section#recruitment {
+  background: no-repeat center center;
+  background-image: linear-gradient(#2c3849, rgba(44, 56, 73, 0.8), rgba(9, 55, 67, 0.5)), url('../../images/ac_logo_bg.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFF;
+}
+body section#recruitment .about {
+  padding: 10px 60px;
+}
+body section#recruitment .about a {
+  color: #58A4B0;
+}
+body section#recruitment h1 {
+  margin-bottom: 50px;
+  font-size: 72px;
+  font-weight: 900;
+}
+body section#recruitment p {
+  color: #FFF;
+  margin-bottom: 50px;
+}
+body section#recruitment a {
+  color: #1093A7;
+}
+body section#recruitment a:hover {
+  color: #14c0da;
+}
+body section#recruitment .btn {
+  color: #FFF;
+  background-color: #2C3849;
+  border: none;
+  border-radius: 0;
+}
+body section#recruitment .btn:hover {
+  background-color: #424242;
+  color: white;
+}
+body section#executiveboard {
+  color: #FFF;
+  background-image: url("../../images/black_linen_v2.png");
+}
+body section#executiveboard h2 {
+  margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
+}
+body section#executiveboard .board-container {
+  margin-bottom: 50px;
+  color: #FFF;
+}
+body section#events {
+  background-color: #2C3849;
+  color: #FFF;
+}
+body section#events h2 {
+  margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
+}
+body section#contact {
+  background-image: url("../../images/black_linen_v2.png");
+  color: #FFF;
+}
+body .modal {
+  font-size: 14px;
+}
+body footer {
+  padding: 40px 40px;
+  background-color: #FFF;
+  color: #34495e;
+}
+#candidates {
+  background-image: url('../../images/black_linen_v2.png');
+}

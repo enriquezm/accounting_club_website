@@ -1,0 +1,54 @@
+#blurb-section {
+  font-family: 'Roboto', sans-serif;
+  padding: 50px 10px;
+  background-color: #FFF;
+  color: rgba(3, 60, 75, 0.8);
+}
+#blurb-section h1 {
+  font-weight: 700;
+}
+#blurb-section p {
+  color: #6f6f6f;
+  font-size: 20px;
+}
+#candidates {
+  padding: 20px 10px;
+  font-family: 'Roboto', sans-serif;
+  color: #FFF;
+}
+#candidates b {
+  color: #6f6f6f;
+  font-size: 24px;
+}
+#candidates .blurb {
+  font-size: 18px;
+}
+#candidates .row {
+  margin-bottom: 70px;
+}
+#candidates .btn {
+  background-color: #1093A7;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 15px;
+}
+#candidates .btn:hover {
+  background-color: rgba(3, 60, 75, 0.8);
+}
+.modal .btn {
+  background-color: #1093A7;
+  border: none;
+  border-radius: 0;
+}
+.modal .btn:hover {
+  background-color: rgba(3, 60, 75, 0.8);
+}
+.modal .modal-dialog {
+  border-radius: 0px;
+}
+.modal .modal-body {
+  color: #34495e;
+}
+.modal .modal-body .cand_position {
+  font-size: 22px;
+}

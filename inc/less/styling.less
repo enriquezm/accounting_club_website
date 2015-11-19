@@ -1,0 +1,190 @@
+// out: ../css/styling.css
+// sourcemap: true
+// compress: true
+// main: less/styling.less
+
+// Global Colors
+@cloud-white: #EDEFF4;
+@light-blue: #01647E;
+@medium-blue: #015064;
+@dark-blue: #033C4B;
+@flat-red: #e74c3c;
+@flat-wet-asphalt: #34495e;
+
+// New Global Colors
+@color-one: #1093A7;
+@color-one-light: #14c0da;
+@color-two: #424242;
+@color-three: #DEF2F3;
+@color-four: #589BA4;
+@color-five: #1AD3F1;
+
+// Basic Colors
+@white: #FFF;
+@black: #000;
+
+
+//Mixins
+
+// page-home.php styling
+
+body {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 50px;
+	font-size: 22px;
+	background-image: url("../images/black_linen_v2.png");
+	// background-attachment: fixed;
+	a {
+		color: #58A4B0;
+		&:hover {
+			text-decoration: none;
+			color: #2C3849;
+		}
+	}
+	.navbar-default {
+		background-color: #2C3849;
+		border: none;
+		.navbar-brand {
+			color:@white;
+			font-weight: 900;
+			&:hover {
+				color: #58A4B0;
+			}
+		}
+		.page_item {
+			a {
+				font-size: 18px;
+				color: @white;
+				&:hover {
+					color: #58A4B0;
+				}
+			}
+		}
+	}
+	section {
+		padding-top: 60px;
+		padding-bottom: 60px;
+		&#about {
+			background-image: url("../../images/crossword.png");
+			color: @color-two;
+			#about-us-content {
+				padding-top: 20px;
+			}
+			.btn {
+				background-color: @color-two;
+				color: @white;
+			}
+		}
+		&#membership {
+			background: rgba(255, 255, 255, 1);
+			color: #2C2D30;
+			h2 {
+				margin-bottom: 60px;
+				font-size: 48px;
+				font-weight: 600;
+			}
+			p {
+				font-size: 18px;
+				color: #767678;
+			}
+			.membership-content {
+				padding: 10px 40px;
+			}
+			.btn {
+				margin-top: 40px;
+				background-color: #2C3849;
+				border: none;
+				border-radius: 0;
+				&:hover {
+					background-color: @color-two;
+				}
+			}
+		}
+		&#recruitment {
+			background: no-repeat center center;
+			background-image: linear-gradient(
+				rgba(44, 56, 73, 1),
+				rgba(44, 56, 73, 0.8),
+				rgba(9, 55, 67, 0.5)
+				),
+				url('../../images/ac_logo_bg.png');
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+			// height: 500px;
+			color: @white;
+			.about {
+				padding: 10px 60px;
+				a {
+					color: #58A4B0;
+				}
+			}
+			h1 {
+				margin-bottom: 50px;
+				font-size: 72px;
+				font-weight: 900;
+			}
+			p {
+				color: @white;
+				margin-bottom: 50px;
+			}
+			a {
+				color: @color-one;
+				&:hover {
+					color: @color-one-light;
+				}
+			}
+			.btn {
+				color: @white;
+				background-color: #2C3849;
+				border: none;
+				border-radius: 0;
+				&:hover {
+					background-color: @color-two;
+					color: white;
+				}
+			}
+		}
+		&#executiveboard {
+			color: @white;
+			background-image: url("../../images/black_linen_v2.png");
+			h2 {
+				margin-bottom: 60px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+			.board-container {
+				margin-bottom: 50px;
+				color: @white;
+			}
+		}
+		&#events {
+			background-color: #2C3849;
+			color: @white;
+			h2 {
+				margin-bottom: 60px;
+				font-size: 32px;
+				font-weight: 600;
+			}
+		}
+		&#contact {
+			background-image: url("../../images/black_linen_v2.png");
+			color: @white;
+		}
+	}
+	.modal {
+		font-size: 14px;
+	}
+	footer {
+		padding: 40px 40px;
+		background-color: @white;
+		color: @flat-wet-asphalt;
+	}
+}
+
+// page-candidates.php styling
+
+#candidates {
+	background-image: url('../../images/black_linen_v2.png');
+}
