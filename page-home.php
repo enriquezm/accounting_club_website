@@ -106,7 +106,6 @@ get_header(); ?>
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
 				<button data-toggle="modal" data-target="#aboutModal" class="btn btn-primary btn-lg">Read More</button>
-				<a href="<?php echo site_url(); ?>/candidates" class="btn btn-primary btn-lg">Candidates</a>
 			</div>
 		</div>
 	</div>
