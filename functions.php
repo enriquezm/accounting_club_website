@@ -83,6 +83,15 @@ endif; // club_website_setup
 add_action( 'after_setup_theme', 'club_website_setup' );
 
 /**
+ * Hide editor on "edit page" admin screen.
+ *
+ */
+ function remove_editor() {
+   remove_post_type_support('page', 'editor');
+ }
+ add_action('admin_init', 'remove_editor'); // Comment out this line if editor is needed for all pages.
+
+/**
  * Set the content width in pixels, based on the theme's design and stylesheet.
  *
  * Priority 0 to make it available to lower priority callbacks.
