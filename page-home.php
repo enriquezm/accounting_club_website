@@ -9,63 +9,6 @@
 $about_us_title							= get_field('about_section_title');
 $about_us_desc							= get_field('about_section_description');
 
-// Executive Board Section
-$eb_section_title						= get_field('eb_section_title');
-$president_image 						= get_field('president_image');
-$president_name  						= get_field('president_name');
-$president_email						= get_field('president_email');
-$president_linkedin						= get_field('president_linkedin');
-
-$vice_president_image 					= get_field('vice_president_image');
-$vice_president_name 					= get_field('vice_president_name');
-$vice_president_email					= get_field('vice_president_email');
-$vice_president_linkedin				= get_field('vice_president_linkedin');
-
-$treasurer_image 						= get_field('treasurer_image');
-$treasurer_name 						= get_field('treasurer_name');
-$treasurer_email						= get_field('treasurer_email');
-$treasurer_linkedin						= get_field('treasurer_linkedin');
-
-$secretary_image 						= get_field('secretary_image');
-$secretary_name 						= get_field('secretary_name');
-$secretary_email						= get_field('secretary_email');
-$secretary_linkedin						= get_field('secretary_linkedin');
-
-$director_of_pro_rel_image				= get_field('director_of_pro_rel_image');
-$director_of_pro_rel_name 				= get_field('director_of_pro_rel_name');
-$director_of_pro_rel_email				= get_field('director_of_pro_rel_email');
-$director_of_pro_rel_linkedin			= get_field('director_of_pro_rel_linkedin');
-
-$director_of_internal_affairs_image 	= get_field('director_of_internal_affairs_image');
-$director_of_internal_affairs_name 		= get_field('director_of_internal_affairs_name');
-$director_of_internal_affairs_email		= get_field('director_of_internal_affairs_email');
-$director_of_internal_affairs_linkedin	= get_field('director_of_internal_affairs_linkedin');
-
-$director_of_student_rel_image 			= get_field('director_of_student_rel_image');
-$director_of_student_rel_name			= get_field('director_of_student_rel_name');
-$director_of_student_rel_email			= get_field('director_of_student_rel_email');
-$director_of_student_rel_linkedin		= get_field('director_of_student_rel_linkedin');
-
-$director_of_pub_rel_image				= get_field('director_of_pub_rel_image');
-$director_of_pub_rel_name 				= get_field('director_of_pub_rel_name');
-$director_of_pub_rel_email				= get_field('director_of_pub_rel_email');
-$director_of_pub_rel_linkedin			= get_field('director_of_pub_rel_linkedin');
-
-$director_of_human_res_image 			= get_field('director_of_human_res_image');
-$director_of_human_res_name				= get_field('director_of_human_res_name');
-$director_of_human_res_email			= get_field('director_of_human_res_email');
-$director_of_human_res_linkedin			= get_field('director_of_human_res_linkedin');
-
-$director_of_info_systems_image 		= get_field('director_of_info_systems_image');
-$director_of_info_systems_name 			= get_field('director_of_info_systems_name');
-$director_of_info_systems_email			= get_field('director_of_info_systems_email');
-$director_of_info_systems_linkedin		= get_field('director_of_info_systems_linkedin');
-
-$ibc_senator_image 						= get_field('ibc_senator_image');
-$ibc_senator_name 						= get_field('ibc_senator_name');
-$ibc_senator_email						= get_field('ibc_senator_email');
-$ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
-
 $club_advisor_image 					= get_field('club_advisor_image');
 $club_advisor_name 						= get_field('club_advisor_name');
 $club_advisor_email						= get_field('club_advisor_image');
