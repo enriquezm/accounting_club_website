@@ -11,6 +11,9 @@ body a:hover {
   text-decoration: none;
   color: #2C3849;
 }
+body .text-muted {
+  font-size: 18px;
+}
 body .navbar-default {
   background-color: #2C3849;
   border: none;
@@ -121,6 +124,10 @@ body section#executiveboard h2 {
 body section#executiveboard .board-container {
   margin-bottom: 50px;
   color: #FFF;
+}
+body section#executiveboard .board-container img {
+  width: 200px;
+  height: 250px;
 }
 body section#events {
   background-color: #2C3849;
