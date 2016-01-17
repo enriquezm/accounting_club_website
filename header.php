@@ -44,7 +44,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="<?php echo site_url(); ?>">Accounting Club at UH Manoa</a>
+					<a class="navbar-brand" href="<?php echo site_url(); ?>">Accounting Club</a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<!-- This section of code is the tool bar that scrolls down to sections on Website -->
