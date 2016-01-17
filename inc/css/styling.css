@@ -112,10 +112,6 @@ body section#recruitment .btn:hover {
   background-color: #424242;
   color: white;
 }
-body section#executiveboard {
-  color: #FFF;
-  background-image: url("../../images/black_linen_v2.png");
-}
 body section#executiveboard h2 {
   margin-bottom: 60px;
   font-size: 32px;
@@ -123,11 +119,12 @@ body section#executiveboard h2 {
 }
 body section#executiveboard .board-container {
   margin-bottom: 50px;
-  color: #FFF;
+  color: #000;
 }
 body section#executiveboard .board-container img {
   width: 200px;
-  height: 250px;
+  height: 200px;
+  border: solid 3px black;
 }
 body section#events {
   background-color: #2C3849;
