@@ -75,15 +75,9 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 
 ?>
 
-<h1>Executive Board</h1>
-
-<section class = "success" id="executiveboard">
+<section class="success" id="executiveboard">
 	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center section-title">
-				<h2><?php echo $eb_section_title; ?></h2>
-			</div>
-		</div>
+		<h2 class="text-center">Executive Board</h2>
 
 		<div class ="row">
 			<div class ="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-center">
@@ -117,9 +111,6 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 						<li>
 							<a href="mailto:<?php echo $vice_president_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
 						</li>
-						<li>
-							<a href="<?php echo $vice_president_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
-						</li>
 					</ul>
 				</div>
 			</div>
@@ -136,9 +127,6 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 					<ul class="list-inline social-buttons">
 						<li>
 							<a href="mailto:<?php echo $treasurer_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
-						</li>
-						<li>
-							<a href="<?php echo $treasurer_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -246,15 +234,13 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 						<li>
 							<a href="mailto:<?php echo $director_of_human_res_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
 						</li>
-						<li>
-							<a href="<?php echo $director_of_human_res_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
-						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<div class = "row">
 			<div class ="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-center">
+				<div class="board-container">
 					<?php if(!empty( $director_of_info_systems_image  ) ) :?>
 					<img class="img-circle" src="<?php echo $director_of_info_systems_image['url']; ?>" alt=" <?php echo $director_of_info_systems_image['alt']; ?>" />
 					<?php endif; ?>
@@ -267,12 +253,11 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 						<li>
 							<a href="mailto:<?php echo $director_of_info_systems_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
 						</li>
-						<li>
-							<a href="<?php echo $director_of_info_systems_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
-						</li>
 					</ul>
+				</div>
 			</div>
 			<div class ="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-center">
+				<div class="board-container">
 					<?php if(!empty( $ibc_senator_image  ) ) :?>
 					<img class="img-circle" src="<?php echo $ibc_senator_image['url']; ?>" alt=" <?php echo $ibc_senator_image['alt']; ?>" />
 					<?php endif; ?>
@@ -285,10 +270,8 @@ $ibc_senator_linkedin					= get_field('ibc_senator_linkedin');
 						<li>
 							<a href="mailto:<?php echo $ibc_senator_email; ?>"><i class="fa fa-envelope-o fa-2x"></i></a>
 						</li>
-						<li>
-							<a href="<?php echo $ibc_senator_linkedin; ?>"><i class="fa fa-linkedin fa-2x"></i></a>
-						</li>
 					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
