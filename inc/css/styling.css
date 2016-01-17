@@ -36,6 +36,11 @@ body section {
   padding-top: 60px;
   padding-bottom: 60px;
 }
+body section h2 {
+  margin-bottom: 60px;
+  font-size: 32px;
+  font-weight: 600;
+}
 body section#about {
   background-image: url("../../images/crossword.png");
   color: #424242;
@@ -111,11 +116,6 @@ body section#recruitment .btn {
 body section#recruitment .btn:hover {
   background-color: #424242;
   color: white;
-}
-body section#executiveboard h2 {
-  margin-bottom: 60px;
-  font-size: 32px;
-  font-weight: 600;
 }
 body section#executiveboard .board-container {
   margin-bottom: 50px;
