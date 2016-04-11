@@ -25,12 +25,12 @@ $dir_of_info_systems = 'Director of Information Systems';
 	<div id="blurb-section" class="container">
 		<div class="row">
 			<div class="col-xs-12 col-md-4">
-				<h1 class="text-center">Fall '17 Candidates</h1>
+				<h1 class="text-center">Fall '16 Candidates</h1>
 			</div>
 
 			<div class="col-xs-12 col-md-8">
 				<p class="blurb">
-					Hello everyone! Please take the time to read more and learn about the <b>Fall 2017</b> Executive Board candidates,
+					Hello everyone! Please take the time to read more and learn about the <b>Fall 2016</b> Executive Board candidates,
 					and thank you to all of you who have decided to run for elections!
 				</p>
 				<p class="blurb">
@@ -55,7 +55,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 					<h4>Christopher C. Moon</h4>
 					<p>
 						What’s up AC!
-						My name is Chris Moon, and I am running for the position of President this upcoming Fall 2017. I am currently finishing my junior year in the Shidler College of Business and am pursuing concurrent degrees in Accounting and Management.   I love Accounting Club and I have had so many new friendships, opportunities, and experiences that I am forever grateful for.   
+						My name is Chris Moon, and I am running for the position of President this upcoming Fall 2016. I am currently finishing my junior year in the Shidler College of Business and am pursuing concurrent degrees in Accounting and Management.   I love Accounting Club and I have had so many new friendships, opportunities, and experiences that I am forever grateful for.   
 						Please allow me to serve on the executive board as a way to give back to this fine community and create an even better experience for future AC members.
 					</p>
 					<a href="#president_01" class="btn btn-primary" data-toggle="modal">Read More</a>
