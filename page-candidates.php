@@ -177,7 +177,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<div class="board-container cand-details">
 					<h4>Jason Au</h4>
 					<p>
-						Hi AC! My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters. I have been a part of this club’s development and witnessed the changes over the past two years and want to do the best I can to further the growth of the club. 
+						Hi AC! My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters and would love the opportunity to give back to the club that has given me so much.
 					</p>
 					<a href="#dir_of_human_resources_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -405,7 +405,10 @@ $dir_of_info_systems = 'Director of Information Systems';
 								<h5 class="cand_name"><b>For Director of Human Resources</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hi AC! My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters. I have been a part of this club’s development and witnessed the changes over the past two years and want to do the best I can to further the growth of the club. AC has become an integral part of my life and my second family. With the amount of experience and knowledge I have gained through and about the club, I believe I am an excellent candidate for the Director of Human Resources. This position requires a lot of dedication, communication skills, and teamwork necessary for the Director of Human Resources to be successful. With the knowledge and experience, I have gained from being active for 4 straight semesters, I am confident that I have the necessary skills to be a great Director of Human Resources. I am excited for the Fall 2016 semester!					
+										Hi AC!
+										My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters and would love the opportunity to give back to the club that has given me so much. I will be taking 16 credits next semester and working 2 jobs but this is nothing new for me as I have been doing this for the past year with plenty of time to make active status. I am confident that I can give AC the time and dedication it deserves. Because of AC, I have grown so much over the past two years: building relationships, making mistakes, and learning from them. Being the director of human resources means there are no shortcuts in doing quality work. I know now that taking the easy way out is never the option.   I want to dedicate my time and knowledge in helping this club grow and maintain the same level of excellence our predecessors have come to expect. 
+										Through my time here in AC, I was lucky enough to call this club my second family. I’ve made some of my best friends here in this club and built lifelong relationships. I had to learn some lessons the hard way but always had my AC family to support me. I always felt at ease with being myself and was never afraid to make mistakes because it was a learning experience. 
+										Through it all, I would not trade my time and experience here in AC for anything. All the good times I had will always be with me as memories and all the tough times are there as lessons learned. My goal is to help the members of AC experience new and exciting things and build lifelong relationships. I look forward to creating new memories with everyone as your next Director of Human Resources!
 									</p>
 								</div>
 							</div>
