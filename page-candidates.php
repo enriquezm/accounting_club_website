@@ -201,26 +201,6 @@ $dir_of_info_systems = 'Director of Information Systems';
 				</div>
 			</div>
 		</div> <!-- row -->
-
-		<div class="row">
-			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
-			</div>
-			<div class ="col-xs-12 col-md-6">
-				<div class="board-container cand-details">
-					<h4>Mark Hipolito</h4>
-					<p>
-						Hey guys!<br>
-						My name is Mark Hipolito and I am running for Director of Human Resources for this upcoming Spring 2017. I am currently in my fifth year of college and I am pursing a degree in both accounting and finance. As a requirement for the CPA, I took an extra year to attain the needed 150 credits to get the license. In the three semesters I have been in AC, AC has given me many different opportunities for growth, allowed for creating great friendships, and provided many unforgettable experiences. It would be an honor to help the club that helped me get to where I am today. <br>
-						As the Director of Human Resources, I will promote the club to the best of my abilities, encourage new and returning members to attain active status, and provide assistance to all members of AC. One of the biggest responsibilities of the Director of Human Resources is to coordinate and prepare for the Aloha Banquet. The Aloha Banquet requires proper time allocation due to the many different tasks. Due to being able to allocate time for work, school and various club activities, I know I will be able to properly allocate time for each task.<br>
-						Please consider me as the next Director of Human Resources and allow me to give back to the club that has given me so much. <br>
-						Sincerely<br>
-						Mark Hipolito
-					</p>
-					<a href="#dir_of_human_resources_02" class="btn btn-primary" data-toggle="modal">Read More</a>
-				</div>
-			</div>
-		</div> <!-- row -->
 		<hr />
 
 		<!-- Director of Information Systems -->
