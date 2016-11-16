@@ -263,7 +263,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 						Sincerely,<br>
 						Jamie-Ryan Aranaydo
 					</p>
-					<a href="#dir_of_info_sys_01" class="btn btn-primary" data-toggle="modal">Read More</a>
+					<a href="#dir_of_info_sys_02" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div>
@@ -553,13 +553,43 @@ $dir_of_info_systems = 'Director of Information Systems';
 	  </div>
 	</div>
 
+	<div class="modal fade" id="dir_of_info_sys_02" tabindex="-1" role="dialog" aria-labelledby="Vice President">
+	  <div class="modal-dialog modal-lg" role="document">
+		 <div class="modal-content">
+			<div class="modal-body row">
+							<div class="col-xs-12 col-md-3">
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Image" />
+							</div>
+							<div class="col-xs-12 col-md-9">
+								<h5 class="cand_position">Jamie-Ryan Aranaydo</h5>
+								<h5 class="cand_name"><b>For Director of Information Systems</b></h5>
+								<div class="cand_bio">
+									<p>
+										Hey  AC!<br>
+										My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Information Systems this upcoming Spring 2017.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
+										I was previously an ICS major, and now double majoring in business. This is where most of my interest in running for Information Systems has come from. Course that I have taken for ICS were Computer Science, Discrete Math for Computing, Networking, Computer Maintenance and Repair, Programing, and Computer Security. These courses have allowed me to develop proficient skills in PowerPoint, Video Editing, and Website Design.<br>
+										As Director of Information Systems, my role is to provide leadership for innovative use of information technologies. My required duties are to maintain and update the website, create the monthly newsletter, budget and coordinate production of club t-shirt, and to take as many photos possible. I believe that I am capable of fulfilling all my duties and much more. I’ve worked on the digital menu display for Honolulu Kitchen and also managed their Instagram as well. Some school projects I have done were developing apps for android, creating cartoons in PowerPoint, designing websites, and creating music videos.<br>
+										Please allow me to serve on the executive board as a way to provide the club and its members with my knowledge and skill with Information Technology. <br>
+										Sincerely,<br>
+										Jamie-Ryan Aranaydo
+									</p>
+								</div>
+							</div>
+			</div>
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		 </div>
+	  </div>
+	</div>
+
 	<!-- IBC Senator -->
 	<div class="modal fade" id="ibc_senator_01" tabindex="-1" role="dialog" aria-labelledby="Vice President">
 	  <div class="modal-dialog modal-lg" role="document">
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Image" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Reyn Watanabe</h5>
