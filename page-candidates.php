@@ -282,7 +282,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="President" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="President" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Lorren Chun</h5>
@@ -309,7 +309,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/secretary.jpg" alt="Vice President" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/secretary.jpg" alt="Vice President" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Michelle Tellio</h5>
@@ -337,7 +337,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Director of Professional Development" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Director of Professional Development" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Jason Au</h5>
@@ -364,7 +364,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Jamie-Ryan Aranaydo</h5>
@@ -395,7 +395,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Student Relations" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Student Relations" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position"> Michael Jitchaku</h5>
@@ -422,7 +422,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Public Relations" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Public Relations" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">YiHua Cheng</h5>
@@ -451,7 +451,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Jacob Baysa</h5>
@@ -477,7 +477,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		 <div class="modal-content">
 			<div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Mark Hipolito</h5>
@@ -508,7 +508,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Image" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Nicole Kim</h5>
@@ -538,7 +538,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Image" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Reyn Watanabe</h5>
