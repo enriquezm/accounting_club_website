@@ -108,31 +108,32 @@ $dir_of_info_systems = 'Director of Information Systems';
 		</div> <!-- row -->
 		<hr />
 
-		<!-- Director of Internal Affairs
+		<!-- Director of Internal Affairs-->
 		<div class="row">
 			<div class="col-xs-12">
 				<h2>Running for: <b><?php echo $dir_of_internal_affairs; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="IA" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IAbrandon.jpg" alt="IA" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Jamie-Ryan Aranaydo</h4>
+					<h4>Brandon Wang</h4>
 					<p>
-						Hey  AC!<br>
-						My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Internal Affairs this upcoming Spring 2018.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
-						As Director of Information Systems, my role is to provide leadership for time management and responsibility tracking. My required duties are to coordinate fundraising opportunities, manage general meeting potlucks, handle super club’s day meals, oversee the carwash event, and fund tracking for each of my responsibilities. <br>
-						I’ve worked at restaurants which serve take out, take preorders on catering, and had fundraising opportunities. My responsibilities for the restaurants were to make sure that all orders got out on time, from aspects of front help and cook, tracking fundraisings and donations, managing inventory and prepayments, and money handling. From my experiences, I believe that I am capable of fulfilling all my duties and much more.<br>
-						Please allow me to serve on the executive board as a way to provide the club and its members with my time management and responsibility tracking skills. <br>
-						Sincerely,<br>
-						Jamie-Ryan Aranaydo
+						Aloha AC! <br>
+						My name is Brandon Wang, and I am running to your next Director of Internal Affairs. I am a Senior majoring in Accounting, and this is my 5th semester in the club. Previously, I’ve been fortunate enough to serve as your Director of Public Relations, and your Director of Professional Relations. <br>
+						Throughout my many experiences within the club, I’ve gained a deep understanding of the club, and I’ve met many new faces. Being able to do so has been life changing, and I can only hope to offer the same experiences for our members. <br>
+						To my understanding, the formal duties of the Director of Internal Affairs includes the coordination of fundraising opportunities, various catering arrangements, and car wash. As the Director of Public Relations, I had the opportunity of organizing events which included catering. As the Director of Professional Relations, I organized over 20 events, including Mock Interview. <br>
+						With my previous experiences, I believe that I am qualified to be your next Director of Internal Affairs. Allow me to serve our club, and I will do my best to offer an unforgettable experience for everyone. <br>
+						Thank you,<br>
+						Brandon
+
 					</p>
 					<a href="#dir_of_internal_affairs_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
-		</div>
-		<hr /> -->
+		</div><!--row -->
+		<hr />
 
 		<!-- Director of Student Relations -->
 		<div class="row">
@@ -365,20 +366,20 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IAbrandon.jpg" alt="" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Jamie-Ryan Aranaydo</h5>
+								<h5 class="cand_position">Brandon Wang</h5>
 								<h5 class="cand_name"><b>For Director of Interal Affairs</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hey  AC!<br>
-										My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Internal Affairs this upcoming Spring 2018.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
-										As Director of Information Systems, my role is to provide leadership for time management and responsibility tracking. My required duties are to coordinate fundraising opportunities, manage general meeting potlucks, handle super club’s day meals, oversee the carwash event, and fund tracking for each of my responsibilities. <br>
-										I’ve worked at restaurants which serve take out, take preorders on catering, and had fundraising opportunities. My responsibilities for the restaurants were to make sure that all orders got out on time, from aspects of front help and cook, tracking fundraisings and donations, managing inventory and prepayments, and money handling. From my experiences, I believe that I am capable of fulfilling all my duties and much more.<br>
-										Please allow me to serve on the executive board as a way to provide the club and its members with my time management and responsibility tracking skills. <br>
-										Sincerely,<br>
-										Jamie-Ryan Aranaydo
+										Aloha AC! <br>
+										My name is Brandon Wang, and I am running to your next Director of Internal Affairs. I am a Senior majoring in Accounting, and this is my 5th semester in the club. Previously, I’ve been fortunate enough to serve as your Director of Public Relations, and your Director of Professional Relations. <br>
+										Throughout my many experiences within the club, I’ve gained a deep understanding of the club, and I’ve met many new faces. Being able to do so has been life changing, and I can only hope to offer the same experiences for our members. <br>
+										To my understanding, the formal duties of the Director of Internal Affairs includes the coordination of fundraising opportunities, various catering arrangements, and car wash. As the Director of Public Relations, I had the opportunity of organizing events which included catering. As the Director of Professional Relations, I organized over 20 events, including Mock Interview. <br>
+										With my previous experiences, I believe that I am qualified to be your next Director of Internal Affairs. Allow me to serve our club, and I will do my best to offer an unforgettable experience for everyone. <br>
+										Thank you,<br>
+										Brandon
 									</p>
 								</div>
 							</div>
