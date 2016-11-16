@@ -47,7 +47,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $vp; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/president.jpg" alt="President" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="vp" />
 			</div>
 
 			<div class ="col-xs-12 col-md-6">
@@ -58,14 +58,14 @@ $dir_of_info_systems = 'Director of Information Systems';
 						With my experiences on board this past semester, I hope to take what I’ve learned about myself and the club to provide direction and input on the club’s future as well as advise new incoming board members while continuing to learn from the previous members. I hope to give back to the club that’s provided me with great opportunities, memories, and friends. Accounting Club and the ARC are like a second home to me. They are a safe haven and a place where I know I can go and be at ease. As the Vice President, I hope to take action to extend my sentiments about Accounting Club to all members ensuring that everyone feels at home and part of the family.<br>
 						My current position on board is centered around service. I hope to continue that personal theme for myself during the rest of my time on board.  While my position may not be directly involved with giving back to the community, I will focus on serving the club through my personal actions and decisions. I will serve with my time and efforts to ensure the success of the members and the club in the future. I humbly ask for your vote to allow me to further be of service to Accounting Club and its members. <br>
 					</p>
-					<a href="#president_01" class="btn btn-primary" data-toggle="modal">Read More</a>
+					<a href="#vp_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
 		<hr/>
 
-		<!-- Director of Professional Development -->
-		<div class="row">
+		<!-- Secretary -->
+		<!-- <div class="row">
 			<div class="col-xs-12">
 				<h2>Running for: <b><?php echo $dir_of_prof_development; ?></b></h2>
 			</div>
@@ -78,13 +78,13 @@ $dir_of_info_systems = 'Director of Information Systems';
 					<p>
 						Hi AC! <br>
 						My name is Jason Au and I am running to be your next Director of Professional Development.  I am a Senior majoring in Accounting and have been in the club for five semesters. I have been a part of this club’s development and witnessed the changes over the past three years and want to do the best I can to further the growth of the club. AC has become an integral part of my life and my second family. I am currently serving as the Director of Human Resources and have the experience and knowledge of how AC operates and with the amount of experience and knowledge I have gained through my time in the club, I believe I am an excellent candidate for the Director of Professional Development. This position requires a lot of dedication, communication skills, and teamwork necessary for the Director of Professional Development to be successful. With the knowledge and experience, I have gained from being active for five straight semesters and serving on board, I am confident that I have the necessary skills to be a great Director of Professional Development. I am excited for the Spring 2017 semester! <br>
-						-Jason Au 
+						-Jason Au
 					</p>
 					<a href="#secretary_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
-			</div>
-		</div> <!-- row -->
-		<hr />
+			</div> -->
+		<!-- </div>   -->
+		<!-- <hr /> -->
 
 		<!-- Director of Professional Development -->
 		<div class="row">
@@ -92,13 +92,15 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_prof_development; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/professional_development.jpg" alt="Treasurer" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Treasurer" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Royce Yamamoto</h4>
+					<h4>Jason Au</h4>
 					<p>
-						Hello Accounting Club! My name is Royce Yamamoto and I am running to be your next Director of Professional Development. I am currently a Junior majoring in Accounting and this past semester I served as the Director of Public Relations for AC.
+						Hi AC! <br>
+						My name is Jason Au and I am running to be your next Director of Professional Development.  I am a Senior majoring in Accounting and have been in the club for five semesters. I have been a part of this club’s development and witnessed the changes over the past three years and want to do the best I can to further the growth of the club. AC has become an integral part of my life and my second family. I am currently serving as the Director of Human Resources and have the experience and knowledge of how AC operates and with the amount of experience and knowledge I have gained through my time in the club, I believe I am an excellent candidate for the Director of Professional Development. This position requires a lot of dedication, communication skills, and teamwork necessary for the Director of Professional Development to be successful. With the knowledge and experience, I have gained from being active for five straight semesters and serving on board, I am confident that I have the necessary skills to be a great Director of Professional Development. I am excited for the Spring 2017 semester! <br>
+						-Jason Au
 					</p>
 					<a href="#pro_development_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -112,13 +114,19 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_internal_affairs; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/internal_affairs.jpg" alt="IBC Senator" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="IBC Senator" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Cullen Cheng</h4>
+					<h4>Jamie-Ryan Aranaydo</h4>
 					<p>
-						Hey AC! My name is Cullen Cheng and I am running for the position of Director of Internal Affairs. I will be a Junior majoring in Accounting and considering a double major in Management Information Systems. I have been an active member in Accounting Club since Fall 2014.
+						Hey  AC!<br>
+						My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Internal Affairs this upcoming Spring 2018.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
+						As Director of Information Systems, my role is to provide leadership for time management and responsibility tracking. My required duties are to coordinate fundraising opportunities, manage general meeting potlucks, handle super club’s day meals, oversee the carwash event, and fund tracking for each of my responsibilities. <br>
+						I’ve worked at restaurants which serve take out, take preorders on catering, and had fundraising opportunities. My responsibilities for the restaurants were to make sure that all orders got out on time, from aspects of front help and cook, tracking fundraisings and donations, managing inventory and prepayments, and money handling. From my experiences, I believe that I am capable of fulfilling all my duties and much more.<br>
+						Please allow me to serve on the executive board as a way to provide the club and its members with my time management and responsibility tracking skills. <br>
+						Sincerely,<br>
+						Jamie-Ryan Aranaydo
 					</p>
 					<a href="#dir_of_internal_affairs_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -132,13 +140,15 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_student_rels; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/student_relations.jpg" alt="Director of Professional Development" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Professional Development" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Jacob Baysa</h4>
+					<h4>Michael Jitchaku</h4>
 					<p>
-						Hello Accounting Club! My name is Jacob Baysa and I am running to be your Director of Student Relations. I am a Direct Admit Program (DAP) student majoring in Accounting and planning to double in Management Information Systems. This spring marks my fourth semester in the club all of which I earned active status.
+						Hey AC! My name is Michael Jitchaku, and I’m running for the position of Director of Student Relations. I am currently a Sophomore in the Shidler College of Business majoring in General Business. Being an active member in AC has given me opportunities and memories that are unforgettable. Personally, the events that I attended and enjoyed the most were the socials. These events allowed me to meet and become closer to the people that make up AC. While being on the fun end of those events, I believe that I am capable of now being on the other side that coordinates these events. For me I believe that I have gained experiences from playing baseball that have taught me many valuable life lessons that can be applied while serving as a member of the Executive Board. While I have no direct leadership experience, I believe that I have a strong foundation including a positive attitude that will allow me to excel in the role as Director of Student Relations. <br>
+						As the Director of Social Relations, it would be my goal to promote an environment within AC that allows for the growth of current and budding relationships. The fact that AC is one of the larger clubs in Shidler means it can sometimes be difficult for new relationships to form, when current relationships are comfortable. As a Director of Social Relations, it would be of utmost importance to promote the building of new connections as well as the strengthening of old ones. One of things I would do includes promoting the ARC a lot more, because whether it’s for chillaxing or studying, it’s there for the members and it’s an easy starting point for members to meet at.<br>
+						In the upcoming spring, I plan on taking 17 credits, while still maintaining an on-campus job. With my schedule, I have enough flexibility to devote myself to not only being successful in fulfilling my duties if elected to be your next Director of Student Relations, but to become someone who will be able to grow and help those around me to grow as well. <br>
 					</p>
 					<a href="#dir_of_student_rels_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -152,13 +162,18 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_pub_rels; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/public_relations.jpg" alt="Director of Professional Development" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Professional Development" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Lorren Chun</h4>
+					<h4>YiHua Cheng</h4>
 					<p>
-						Hi AC! I'm Lorren Chun and I'm running for the Director of Public Relations. I'm currently a sophomore in Shidler double majoring in Accounting and MIS. This is my first semester in Accounting Club and I have learned so much from everyone.
+						Hey AC! My name is YiHua Cheng and I am running for Director of Public Relations for this upcoming Spring semester. I am currently a junior studying Accounting at the Shidler College of Business and I have been a member of AC for almost a year. As I conclude my 2nd semester in Accounting Club, I can confidently say that AC has been a place that provided several invaluable experiences and irreplaceable relationships, which molded me into the person that I am today. I would like to serve as the Director of Public Relations because I want to give back to the club and community for supporting me all of this time.  <br>
+						As Director of Public Relations, my goal is to build a long-lasting connection between Accounting club and the community through volunteer services. Not only will we be giving back to the community, but we will also be able to stimulate personal growth, build relationships, and promote environmental awareness. As Director of Public Relations, I will make sure that we are able to accomplish those goals by contacting community service organizations and encouraging everyone to attend more than the active status minimum.  <br>
+						Partaking in Executive Board requires several skills such as strong leadership skills, effective communication, and time management, all in which I believe I possess. I plan to utilize the skills I’ve acquired from my experiences with the UH Manoa Marching Band and Color Guard Leadership Team, and apply it to this position in hopes to make Accounting Club even greater than it already is. For the upcoming Fall 2017 semester, I plan on taking 16 credits along with working an on-campus job. But I won’t be in color guard so that will allow me to dedicate my time to Accounting Club.
+						Please let me serve on the Executive Board as a way to give back to the club that has refined who I am today and to create a better environment for our community. <br>
+						Sincerely,<br>
+						YiHua Cheng
 					</p>
 					<a href="#dir_of_pub_rels_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -172,15 +187,37 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_human_resources; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/human_resources.jpg" alt="Director of Human Resources" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Jason Au</h4>
+					<h4>Jacob Baysa</h4>
 					<p>
-						Hi AC! My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters and would love the opportunity to give back to the club that has given me so much.
+						Aloha AC! My name is Jacob Baysa and I am running to be your Director of Human Resources. I was admitted into Shidler as a Direct Admit Program (DAP) student and am currently a junior double majoring in Accounting and Management Information Systems. This fall marks my fifth semester in the club all of which I earned active status. Additionally, I am on the Executive Board already as the Director of Student Relations where I coordinated 10 social events throughout the fall semester. Altogether, my time and growth in the club has allowed me to understand the club as well as given me the opportunity to meet many, if not all, of our members. Next semester, I hope to continue to be one of your leaders in the club.<br>
+						One example of my leadership experience is my position as the current Director of Student Relations. I handled a great amount of responsibility heading into the fall semester, where our club sees the largest growth in new members. My role on the Executive Board was to coordinate thrilling events filled with high levels of engagement through collaborative team work inspired games and activities. I believe I achieved my goal of creating a social environment where all members can kick back and have a good time with new and familiar faces. It was a major learning experience for me as it was my first time carrying out the duties of an Executive Board member. I am confident I will be successful once more as the Director of Human Resources and I look forward to assisting my fellow Executive Board members.<br>
+						In the fall, I will be balancing 12 credits, a possible internship, and hopefully an Executive Board position. I feel that my schedule is lenient enough for me to be able to dedicate more time to Accounting Club as needed. Also, my other responsibilities are flexible enough for me to succeed in all aspects of college. I believe myself to be an energetic and engaging person and I want to be able to encourage others in the club to be exemplify a unified AC family mindset. These are the reasons why I believe I am a great candidate for the Director of Human Resources.<br>
 					</p>
 					<a href="#dir_of_human_resources_01" class="btn btn-primary" data-toggle="modal">Read More</a>
+				</div>
+			</div>
+		</div> <!-- row -->
+
+		<div class="row">
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
+					<h4>Mark Hipolito</h4>
+					<p>
+						Hey guys!<br>
+						My name is Mark Hipolito and I am running for Director of Human Resources for this upcoming Spring 2017. I am currently in my fifth year of college and I am pursing a degree in both accounting and finance. As a requirement for the CPA, I took an extra year to attain the needed 150 credits to get the license. In the three semesters I have been in AC, AC has given me many different opportunities for growth, allowed for creating great friendships, and provided many unforgettable experiences. It would be an honor to help the club that helped me get to where I am today. <br>
+						As the Director of Human Resources, I will promote the club to the best of my abilities, encourage new and returning members to attain active status, and provide assistance to all members of AC. One of the biggest responsibilities of the Director of Human Resources is to coordinate and prepare for the Aloha Banquet. The Aloha Banquet requires proper time allocation due to the many different tasks. Due to being able to allocate time for work, school and various club activities, I know I will be able to properly allocate time for each task.<br>
+						Please consider me as the next Director of Human Resources and allow me to give back to the club that has given me so much. <br>
+						Sincerely<br>
+						Mark Hipolito
+					</p>
+					<a href="#dir_of_human_resources_02" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
 		</div> <!-- row -->
@@ -192,14 +229,18 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_info_systems; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/info_sys.jpg" alt="Director of Information Systems" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Director of Information Systems" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Marcus Jun Yi Maceyko</h4>
+					<h4>Nicole Kim</h4>
 					<p>
-						Hello, Folks!
-						The moniker is Marcus Jun Yi Maceyko and I am running for the position of Director of Information Systems. I am currently a junior studying for my degree in Accounting & Management. I have been an Active member for Accounting Club for 2 semesters.
+						Hey AC!<br>
+						My name is Nicole Kim and I am running to be your next Director of Information Systems for the upcoming spring 2017 semester. To give you some background about myself, I am a senior and am pursuing a Double Major in Accounting and Korean. This is also my 1st semester in the club and I am currently on track to make active status this semester.  Although I’m new to AC, I feel being in this club has helped me grow personally and professionally due to all of the opportunities that this club provides.  AC has also provided me with a great community of friends that are on similar paths as me, and are more than willing to help in almost any way possible. <br>
+						This semester, I had the opportunity to be able to interact closely with several board members by volunteering to be in the IT committee for Aloha Banquet.  I also assisted the current Director of Information Systems by taking photos for Super Clubs Day. I feel that understanding some of the duties of the position has provided me with the passion to continue the great work to contribute to the success of the club. The following semester I will be taking 9 credits which will allow me to dedicate my time to the club; this will also allow me to provide my assistance to any members as needed. <br>
+						I am excited to see what the next semester has in store and would love to be a part of making all of your experiences be as great and welcoming as it was for me! Thank you for taking the time to read this and I hope to see you all at the election meeting! <br>
+						Sincerely, <br>
+						Nicole S.J. Kim
 					</p>
 					<a href="#dir_of_info_sys_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -213,13 +254,18 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $ibc_senator; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/ibc_senator.jpg" alt="Director of Information Systems" />
+				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Director of Information Systems" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
-					<h4>Brent Hironaga</h4>
+					<h4>Reyn Watanabe</h4>
 					<p>
-						Hey Accounting Club! My name is Brent Hironaga and I am running for the position of IBC Senator.  I am currently a sophomore DAP student who plans to major in both accounting and MIS.  This is my first true semester in Accounting Club where I have actively participated in many of the club events.
+						Aloha AC! <br>
+						My name is Reyn Watanabe and I am running for the position of Inter-Business Council Senator for this upcoming Spring 2017. I am a sophomore in the Shidler College of Business Direct Admit Program and am pursuing a bachelor’s degree in Accounting and Finance. As my first semester in Accounting Club is coming to a close, I am realizing all the great things the club has given me; I have made awesome friendships, networked with professionals, got to see the ins and outs of companies, and learned valuable skills. I am so grateful for all the amazing opportunities Accounting Club has given me. I want to give back to the club in some way, which is why I decided to run for board. Using my specific skill set and work ethic, it would be an honor to serve on board and add to this organizations success.  <br>
+						As Inter-Business Council Senator, it is my duty to attend monthly IBC meetings, plan events, maintain the promotional board in Shidler, and maintain the IBC budget. Since the duties of IBC Senator are minimal in relation to other board positions, I will also help my fellow peers and work as a team to ensure this organizations success. I also would like to use this position in order to branch out into other positions within the club. I am very organized, reliable, and have a strong academic record, which means I will be able to put more of my time into the organization. <br>
+						Please allow me to serve on the executive board of the Accounting Club to add to the organizations success and give back to the club so that future members will have the same rich experience I had. <br>
+						Aloha, <br>
+						Reyn Watanabe
 					</p>
 					<a href="#ibc_senator_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
@@ -230,24 +276,22 @@ $dir_of_info_systems = 'Director of Information Systems';
 
 	<!-- Modals -->
 
-	<!-- President -->
-	<div class="modal fade" id="president_01" tabindex="-1" role="dialog" aria-labelledby="President">
+	<!-- V President -->
+	<div class="modal fade" id="vp_01" tabindex="-1" role="dialog" aria-labelledby="Vice President">
 	  <div class="modal-dialog modal-lg" role="document">
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/president.jpg" alt="President" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="President" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Chris Moon</h5>
-								<h5 class="cand_name"><b>For President</b></h5>
+								<h5 class="cand_position">Lorren Chun</h5>
+								<h5 class="cand_name"><b>For Vice President</b></h5>
 								<div class="cand_bio">
 									<p>
-										What’s up AC!
-										My name is Chris Moon, and I am running for the position of President this upcoming Fall 2017.   I am currently finishing my junior year in the Shidler College of Business and am pursuing concurrent degrees in Accounting and Management. I love Accounting Club and I have had so many new friendships, opportunities, and experiences that I am forever grateful for.  Using my specific gifts and talents, it would be my pleasure to express that gratitude by serving on board.
-										As President, it would be my mission to cultivate an environment that rewards excellence, promotes growth, encourages wisdom and most importantly, prioritizes the development of love and personal relationships.  While it is simple, the task of creating such an environment is not an easy one.  There needs to be mutual cooperation, trust and respect in order to bring out the best in each person, and most importantly, there needs to be an attitude for serving one another. This is where the President must step in and set the example.
-										The President’s role is that of a pace-setter, not a dictator, and I would never ask you to do something that I myself would be unwilling to or incapable of doing.  With years of experience serving in volunteer organizations as well as making executive decisions for them, I have learned to plan my work ahead of time and, when necessary, think on my feet during emergencies.
-										Please allow me to serve on the executive board as a way to give back to this fine community and create an even better experience for future AC members.
+										Hi AC! My name is Lorren Chun and I am running for Vice President. I am currently a Junior double majoring in Accounting and Management Information Systems. Accounting Club has provided me with friends, opportunities, knowledge, and memories and I would be grateful for the chance to serve our club for two more semesters on board. <br>
+										With my experiences on board this past semester, I hope to take what I’ve learned about myself and the club to provide direction and input on the club’s future as well as advise new incoming board members while continuing to learn from the previous members. I hope to give back to the club that’s provided me with great opportunities, memories, and friends. Accounting Club and the ARC are like a second home to me. They are a safe haven and a place where I know I can go and be at ease. As the Vice President, I hope to take action to extend my sentiments about Accounting Club to all members ensuring that everyone feels at home and part of the family.<br>
+										My current position on board is centered around service. I hope to continue that personal theme for myself during the rest of my time on board.  While my position may not be directly involved with giving back to the community, I will focus on serving the club through my personal actions and decisions. I will serve with my time and efforts to ensure the success of the members and the club in the future. I humbly ask for your vote to allow me to further be of service to Accounting Club and its members. <br>
 									</p>
 								</div>
 							</div>
@@ -293,16 +337,16 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/professional_development.jpg" alt="Director of Professional Development" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Director of Professional Development" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Royce Yamamoto</h5>
+								<h5 class="cand_position">Jason Au</h5>
 								<h5 class="cand_name"><b>For Director of Professional Development</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hello Accounting Club! My name is Royce Yamamoto and I am running to be your next Director of Professional Development. I am currently a Junior majoring in Accounting and this past semester I served as the Director of Public Relations for AC. In my third semester in the club. I believe that I have the confidence and belief to be your next Director of Public Development.
-										Being in the club has given me a lot of opportunities to grow personally and professionally. Through this semester on board, it made me really appreciate what a board member does throughout the semester. Having people in the club in which you can learn from gave me a different perspective of the club and what it really has to offer. I believe that I can give members this experience of what AC truly means.
-             			Next semester I will be taking 15 credits with an on-campus part-time job. In past semesters I have taken 15 credits with two-part time jobs, which I feel have prepared me to be able to put a lot of time into the Executive Board position again this upcoming semester as well as meeting each and every one of you individually better. Thank you for reading and I hope to get see you all at election meeting!
+										Hi AC! <br>
+										My name is Jason Au and I am running to be your next Director of Professional Development.  I am a Senior majoring in Accounting and have been in the club for five semesters. I have been a part of this club’s development and witnessed the changes over the past three years and want to do the best I can to further the growth of the club. AC has become an integral part of my life and my second family. I am currently serving as the Director of Human Resources and have the experience and knowledge of how AC operates and with the amount of experience and knowledge I have gained through my time in the club, I believe I am an excellent candidate for the Director of Professional Development. This position requires a lot of dedication, communication skills, and teamwork necessary for the Director of Professional Development to be successful. With the knowledge and experience, I have gained from being active for five straight semesters and serving on board, I am confident that I have the necessary skills to be a great Director of Professional Development. I am excited for the Spring 2017 semester! <br>
+										-Jason Au
 									</p>
 								</div>
 							</div>
@@ -320,15 +364,20 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/internal_affairs.jpg" alt="" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Cullen Cheng</h5>
+								<h5 class="cand_position">Jamie-Ryan Aranaydo</h5>
 								<h5 class="cand_name"><b>For Director of Interal Affairs</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hey AC! My name is Cullen Cheng and I am running for the position of Director of Internal Affairs.  I will be a Junior majoring in Accounting and considering a double major in Management Information Systems.  I have been an active member in Accounting Club since Fall 2014. Through my time with AC, I have dedicated myself to the club, learned from our current and past members, and tried to connect with more people.  AC has helped me reach new heights and develop many useful skills, especially with communication.  I want to strengthen the bond in AC and I believe being on board will allow me to accomplish this goal.  It is in my best interest to help maintain a peaceful and cheerful atmosphere for my fellow members.
-										I plan to take 3 physical and some online courses, so that I will have more time to fulfill my duties and responsibilities as a board member.  Being a part of AC’s Aloha Banquet IT Committee has given me experience to take charge and accomplish objectives within a timely manner.  In addition to my campus job, I am required to pay attention to detail while multi-tasking, which can be beneficial for this position.  I believe I am a potential candidate to be your next Director of Internal Affairs of Fall 2016.
+										Hey  AC!<br>
+										My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Internal Affairs this upcoming Spring 2018.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
+										As Director of Information Systems, my role is to provide leadership for time management and responsibility tracking. My required duties are to coordinate fundraising opportunities, manage general meeting potlucks, handle super club’s day meals, oversee the carwash event, and fund tracking for each of my responsibilities. <br>
+										I’ve worked at restaurants which serve take out, take preorders on catering, and had fundraising opportunities. My responsibilities for the restaurants were to make sure that all orders got out on time, from aspects of front help and cook, tracking fundraisings and donations, managing inventory and prepayments, and money handling. From my experiences, I believe that I am capable of fulfilling all my duties and much more.<br>
+										Please allow me to serve on the executive board as a way to provide the club and its members with my time management and responsibility tracking skills. <br>
+										Sincerely,<br>
+										Jamie-Ryan Aranaydo
 									</p>
 								</div>
 							</div>
@@ -346,16 +395,16 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/student_relations.jpg" alt="Director of Student Relations" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Student Relations" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Jacob Baysa</h5>
+								<h5 class="cand_position"> Michael Jitchaku</h5>
 								<h5 class="cand_name"><b>For Director of Student Relations</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hello Accounting Club! My name is Jacob Baysa and I am running to be your Director of Student Relations. I am a Direct Admit Program (DAP) student majoring in Accounting and planning to double in Management Information Systems. This spring marks my fourth semester in the club all of which I earned active status. Additionally, I have been on multiple committees such as the IT committee and two aloha banquet video committees. Other activities that I have been a part of in AC include the super clubs kickball and dance teams. Altogether my growth in the club these past two years has allowed me to get an understanding of the club as well as the chance to meet many of our members. Next semester, I hope to be one of your leaders in the club while holding this Director position.
-										One example of leadership experience I have had previously include leading aloha banquet’s video committee. The intro video at aloha banquet is a major part of the event as it introduces the theme and emcees. I, with the help of another committee leader, scheduled, scripted, filmed, and edited the intro video. We were able to lead the committee successfully and managed to complete the video just in time for aloha banquet. It was a major learning experience and I believe it is a great example of my dedication and commitment to the club. I am confident that I am capable of executing the duties required of an Executive Board member.
-										In the fall, I will be balancing 12 credits, a part-time on campus job, and hopefully an Executive Board position. I feel that my schedule is lenient enough for me to be able to dedicate more time to Accounting Club as needed. Also, my other responsibilities are flexible enough for me to succeed in all aspects of college, which includes the social aspect of college. I believe myself to be a social and engaging person and I want to be able to encourage others in the club to be more engaging and embody a unified AC family mindset.This is why I believe I am a great candidate for the Director of Student Relations.
+										Hey AC! My name is Michael Jitchaku, and I’m running for the position of Director of Student Relations. I am currently a Sophomore in the Shidler College of Business majoring in General Business. Being an active member in AC has given me opportunities and memories that are unforgettable. Personally, the events that I attended and enjoyed the most were the socials. These events allowed me to meet and become closer to the people that make up AC. While being on the fun end of those events, I believe that I am capable of now being on the other side that coordinates these events. For me I believe that I have gained experiences from playing baseball that have taught me many valuable life lessons that can be applied while serving as a member of the Executive Board. While I have no direct leadership experience, I believe that I have a strong foundation including a positive attitude that will allow me to excel in the role as Director of Student Relations. <br>
+										As the Director of Social Relations, it would be my goal to promote an environment within AC that allows for the growth of current and budding relationships. The fact that AC is one of the larger clubs in Shidler means it can sometimes be difficult for new relationships to form, when current relationships are comfortable. As a Director of Social Relations, it would be of utmost importance to promote the building of new connections as well as the strengthening of old ones. One of things I would do includes promoting the ARC a lot more, because whether it’s for chillaxing or studying, it’s there for the members and it’s an easy starting point for members to meet at.<br>
+										In the upcoming spring, I plan on taking 17 credits, while still maintaining an on-campus job. With my schedule, I have enough flexibility to devote myself to not only being successful in fulfilling my duties if elected to be your next Director of Student Relations, but to become someone who will be able to grow and help those around me to grow as well. <br>
 									</p>
 								</div>
 							</div>
@@ -373,16 +422,19 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/public_relations.jpg" alt="Director of Public Relations" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Public Relations" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Lorren Chun</h5>
+								<h5 class="cand_position">YiHua Cheng</h5>
 								<h5 class="cand_name"><b>For Director of Public Relations</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hi AC! I'm Lorren Chun and I'm running for the Director of Public Relations. I'm currently a sophomore in Shidler double majoring in Accounting and MIS. This is my first semester in Accounting Club and I have learned so much from everyone. I cannot wait to continue learning and gaining valuable experience from members and professionals alike. I am running because I want to grow my skills as a leader and help to perpetuate Accounting Club's legacy that previous and current members have worked so hard to build as well as help to make the experiences of future members as great as mine has been so far.
-										I chose to run for Public Relations because community service is something that is important to me. Through community service we help causes that are dear to our heart and those who are less fortunate. As someone who has been fortunate enough to not suffer through many hardships that others do, I believe that helping out those who are less fortunate for whose lives have been affected by extenuating circumstances helps to also keep me grounded. I personally am not always appreciative of all of the opportunities and things that I am so fortunate to have. Doing community service definitely helps to keep me grounded and thankful for everything. Through this position, I hope to facilitate events that help everyone to give back to the community and causes that we are all passionate about.
-									</p>
+										Hey AC! My name is YiHua Cheng and I am running for Director of Public Relations for this upcoming Spring semester. I am currently a junior studying Accounting at the Shidler College of Business and I have been a member of AC for almost a year. As I conclude my 2nd semester in Accounting Club, I can confidently say that AC has been a place that provided several invaluable experiences and irreplaceable relationships, which molded me into the person that I am today. I would like to serve as the Director of Public Relations because I want to give back to the club and community for supporting me all of this time.  <br>
+										As Director of Public Relations, my goal is to build a long-lasting connection between Accounting club and the community through volunteer services. Not only will we be giving back to the community, but we will also be able to stimulate personal growth, build relationships, and promote environmental awareness. As Director of Public Relations, I will make sure that we are able to accomplish those goals by contacting community service organizations and encouraging everyone to attend more than the active status minimum.  <br>
+										Partaking in Executive Board requires several skills such as strong leadership skills, effective communication, and time management, all in which I believe I possess. I plan to utilize the skills I’ve acquired from my experiences with the UH Manoa Marching Band and Color Guard Leadership Team, and apply it to this position in hopes to make Accounting Club even greater than it already is. For the upcoming Fall 2017 semester, I plan on taking 16 credits along with working an on-campus job. But I won’t be in color guard so that will allow me to dedicate my time to Accounting Club.
+										Please let me serve on the Executive Board as a way to give back to the club that has refined who I am today and to create a better environment for our community. <br>
+										Sincerely,<br>
+										YiHua Cheng									</p>
 								</div>
 							</div>
 	      </div>
@@ -399,17 +451,16 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/human_resources.jpg" alt="Director of Human Resources" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Jason Au</h5>
+								<h5 class="cand_position">Jacob Baysa</h5>
 								<h5 class="cand_name"><b>For Director of Human Resources</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hi AC!
-										My name is Jason Au and I am running to be your next Director of Human Resources.  I am a junior majoring in Accounting and have been in the club for four semesters and would love the opportunity to give back to the club that has given me so much. I will be taking 16 credits next semester and working 2 jobs but this is nothing new for me as I have been doing this for the past year with plenty of time to make active status. I am confident that I can give AC the time and dedication it deserves. Because of AC, I have grown so much over the past two years: building relationships, making mistakes, and learning from them. Being the director of human resources means there are no shortcuts in doing quality work. I know now that taking the easy way out is never the option.   I want to dedicate my time and knowledge in helping this club grow and maintain the same level of excellence our predecessors have come to expect.
-										Through my time here in AC, I was lucky enough to call this club my second family. I’ve made some of my best friends here in this club and built lifelong relationships. I had to learn some lessons the hard way but always had my AC family to support me. I always felt at ease with being myself and was never afraid to make mistakes because it was a learning experience.
-										Through it all, I would not trade my time and experience here in AC for anything. All the good times I had will always be with me as memories and all the tough times are there as lessons learned. My goal is to help the members of AC experience new and exciting things and build lifelong relationships. I look forward to creating new memories with everyone as your next Director of Human Resources!
+										Aloha AC! My name is Jacob Baysa and I am running to be your Director of Human Resources. I was admitted into Shidler as a Direct Admit Program (DAP) student and am currently a junior double majoring in Accounting and Management Information Systems. This fall marks my fifth semester in the club all of which I earned active status. Additionally, I am on the Executive Board already as the Director of Student Relations where I coordinated 10 social events throughout the fall semester. Altogether, my time and growth in the club has allowed me to understand the club as well as given me the opportunity to meet many, if not all, of our members. Next semester, I hope to continue to be one of your leaders in the club.<br>
+										One example of my leadership experience is my position as the current Director of Student Relations. I handled a great amount of responsibility heading into the fall semester, where our club sees the largest growth in new members. My role on the Executive Board was to coordinate thrilling events filled with high levels of engagement through collaborative team work inspired games and activities. I believe I achieved my goal of creating a social environment where all members can kick back and have a good time with new and familiar faces. It was a major learning experience for me as it was my first time carrying out the duties of an Executive Board member. I am confident I will be successful once more as the Director of Human Resources and I look forward to assisting my fellow Executive Board members.<br>
+										In the fall, I will be balancing 12 credits, a possible internship, and hopefully an Executive Board position. I feel that my schedule is lenient enough for me to be able to dedicate more time to Accounting Club as needed. Also, my other responsibilities are flexible enough for me to succeed in all aspects of college. I believe myself to be an energetic and engaging person and I want to be able to encourage others in the club to be exemplify a unified AC family mindset. These are the reasons why I believe I am a great candidate for the Director of Human Resources.<br>
 									</p>
 								</div>
 							</div>
@@ -421,23 +472,55 @@ $dir_of_info_systems = 'Director of Information Systems';
 	  </div>
 	</div>
 
+	<div class="modal fade" id="dir_of_human_resources_02" tabindex="-1" role="dialog" aria-labelledby="Director of Human Resources">
+	  <div class="modal-dialog modal-lg" role="document">
+		 <div class="modal-content">
+			<div class="modal-body row">
+							<div class="col-xs-12 col-md-3">
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
+							</div>
+							<div class="col-xs-12 col-md-9">
+								<h5 class="cand_position">Mark Hipolito</h5>
+								<h5 class="cand_name"><b>For Director of Human Resources</b></h5>
+								<div class="cand_bio">
+									<p>
+										Hey guys!<br>
+										My name is Mark Hipolito and I am running for Director of Human Resources for this upcoming Spring 2017. I am currently in my fifth year of college and I am pursing a degree in both accounting and finance. As a requirement for the CPA, I took an extra year to attain the needed 150 credits to get the license. In the three semesters I have been in AC, AC has given me many different opportunities for growth, allowed for creating great friendships, and provided many unforgettable experiences. It would be an honor to help the club that helped me get to where I am today. <br>
+										As the Director of Human Resources, I will promote the club to the best of my abilities, encourage new and returning members to attain active status, and provide assistance to all members of AC. One of the biggest responsibilities of the Director of Human Resources is to coordinate and prepare for the Aloha Banquet. The Aloha Banquet requires proper time allocation due to the many different tasks. Due to being able to allocate time for work, school and various club activities, I know I will be able to properly allocate time for each task.<br>
+										Please consider me as the next Director of Human Resources and allow me to give back to the club that has given me so much. <br>
+										Sincerely<br>
+										Mark Hipolito
+									</p>
+								</div>
+							</div>
+			</div>
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		 </div>
+	  </div>
+	</div>
+
+
 	<!-- Director of Information Systems -->
 	<div class="modal fade" id="dir_of_info_sys_01" tabindex="-1" role="dialog" aria-labelledby="Vice President">
 	  <div class="modal-dialog modal-lg" role="document">
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/info_sys.jpg" alt="Image" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Marcus Jun Yi Maceyko</h5>
+								<h5 class="cand_position">Nicole Kim</h5>
 								<h5 class="cand_name"><b>For Director of Information Systems</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hello, Folks!
-										The moniker is Marcus Jun Yi Maceyko and I am running for the position of Director of Information Systems. I am currently a junior studying for my degree in Accounting & Management. I have been an Active member for Accounting Club for 2 semesters. I am glad that I am able contribute more to the club’s growth over this past year. Accounting Club has helped me grow as an individual; which is why I truly consider Accounting Club a second family. With that being said, I feel I have the desire to help the club more in the years to come. Over this past two semesters, being a member of this community has provided me a keen understanding of how the club is run and what the club needs.
-										During my first semester, I participated in several committees for the Aloha banquet which really helped me understand delegation of members during meeting, budgeting for resources, and the management of time for big events as such. It was an interesting experience for me because I was privileged to work with a couple of board members on the centerpieces and videos. During this period, I definitely felt that I exceled in my communication, artistic foundation, and technological skill. I also got to understand the different duties of the board members during our engagement in the projects. Smelting all these details and understandings as a whole has aided me in visualizing what we could do to improve the efficiency of the club. If I were to be elected, I most definitely want Accounting Club to be an environment where members can experience success and become dynamic citizens.
-										Next semester I will be taking 12 credits. This schedule will allow me to dedicate more time into Accounting Club. I understand the role on Board, support the club to provide an equitable foundation to all of our members. I genuinely enjoy the opportunity to serve and would take the responsibility seriously. As a general member, I would listen to and understand all information available on an issue before I form an opinion and generate my ideas; Likewise, If elected. Suffice to say, I believe I am worthy of your vote as the Director of Information Systems for Fall ‘16.
+										Hey AC!<br>
+										My name is Nicole Kim and I am running to be your next Director of Information Systems for the upcoming spring 2017 semester. To give you some background about myself, I am a senior and am pursuing a Double Major in Accounting and Korean. This is also my 1st semester in the club and I am currently on track to make active status this semester.  Although I’m new to AC, I feel being in this club has helped me grow personally and professionally due to all of the opportunities that this club provides.  AC has also provided me with a great community of friends that are on similar paths as me, and are more than willing to help in almost any way possible. <br>
+										This semester, I had the opportunity to be able to interact closely with several board members by volunteering to be in the IT committee for Aloha Banquet.  I also assisted the current Director of Information Systems by taking photos for Super Clubs Day. I feel that understanding some of the duties of the position has provided me with the passion to continue the great work to contribute to the success of the club. The following semester I will be taking 9 credits which will allow me to dedicate my time to the club; this will also allow me to provide my assistance to any members as needed. <br>
+										I am excited to see what the next semester has in store and would love to be a part of making all of your experiences be as great and welcoming as it was for me! Thank you for taking the time to read this and I hope to see you all at the election meeting! <br>
+										Sincerely, <br>
+										Nicole S.J. Kim
 									</p>
 								</div>
 							</div>
@@ -455,16 +538,19 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/ibc_senator.jpg" alt="Image" />
+								<img src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
-								<h5 class="cand_position">Brent Hironaga</h5>
+								<h5 class="cand_position">Reyn Watanabe</h5>
 								<h5 class="cand_name"><b>For IBC Senator</b></h5>
 								<div class="cand_bio">
 									<p>
-										Hey Accounting Club! My name is Brent Hironaga and I am running for the position of IBC Senator.  I am currently a sophomore DAP student who plans to major in both accounting and MIS.  This is my first true semester in Accounting Club where I have actively participated in many of the club events.  Accounting Club has become almost like a second home for me where I can be myself and have fun.  I had an amazing experience and through this position I wish to give back to the club that gave me so much.
-										With my previous experience in baseball I developed communication skills, the ability to work well with a team, and an aggressive/competitive spirit.  I feel that these qualities are important for the role of IBC Senator.  Also through baseball I learned that individual success is not as important as team success.  With this attitude I not only plan to do my job, but to help with the needs of the other club and board members to bring the best environment out of the club.
-										I am currently balancing 15 credits, an on campus job, three softball teams, and Accounting Club.  Next semester I plan to cut those credits down to 12 and dedicate my time towards Accounting Club over my softball teams when necessary.  I am blessed to be apart of such an amazing club and if given the opportunity, it would be an honor for me to represent the club as IBC Senator next semester.
+										Aloha AC! <br>
+										My name is Reyn Watanabe and I am running for the position of Inter-Business Council Senator for this upcoming Spring 2017. I am a sophomore in the Shidler College of Business Direct Admit Program and am pursuing a bachelor’s degree in Accounting and Finance. As my first semester in Accounting Club is coming to a close, I am realizing all the great things the club has given me; I have made awesome friendships, networked with professionals, got to see the ins and outs of companies, and learned valuable skills. I am so grateful for all the amazing opportunities Accounting Club has given me. I want to give back to the club in some way, which is why I decided to run for board. Using my specific skill set and work ethic, it would be an honor to serve on board and add to this organizations success.  <br>
+										As Inter-Business Council Senator, it is my duty to attend monthly IBC meetings, plan events, maintain the promotional board in Shidler, and maintain the IBC budget. Since the duties of IBC Senator are minimal in relation to other board positions, I will also help my fellow peers and work as a team to ensure this organizations success. I also would like to use this position in order to branch out into other positions within the club. I am very organized, reliable, and have a strong academic record, which means I will be able to put more of my time into the organization. <br>
+										Please allow me to serve on the executive board of the Accounting Club to add to the organizations success and give back to the club so that future members will have the same rich experience I had. <br>
+										Aloha, <br>
+										Reyn Watanabe
 									</p>
 								</div>
 							</div>
