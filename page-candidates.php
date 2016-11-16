@@ -70,7 +70,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_prof_development; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/secretary.jpg" alt="Treasurer" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/fall-2017-candidates/secretary.jpg" alt="Treasurer" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -92,7 +92,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_prof_development; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Treasurer" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PD.jpg" alt="Treasurer" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -114,7 +114,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_internal_affairs; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="IBC Senator" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="IBC Senator" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -140,7 +140,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_student_rels; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Professional Development" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Professional Development" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -162,7 +162,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_pub_rels; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Professional Development" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/PR.jpg" alt="Director of Professional Development" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -187,7 +187,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_human_resources; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR1.jpg" alt="Director of Human Resources" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -204,7 +204,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 
 		<div class="row">
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/HR2.jpg" alt="Director of Human Resources" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -229,7 +229,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_info_systems; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Director of Information Systems" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Director of Information Systems" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -254,7 +254,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $ibc_senator; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Director of Information Systems" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Director of Information Systems" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
