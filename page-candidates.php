@@ -47,7 +47,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $vp; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="vp" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/VP.jpg" alt="vp" />
 			</div>
 
 			<div class ="col-xs-12 col-md-6">
