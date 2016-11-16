@@ -558,7 +558,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 		 <div class="modal-content">
 			<div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IS.jpg" alt="Image" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Jamie-Ryan Aranaydo</h5>
@@ -589,7 +589,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 	    <div class="modal-content">
 	      <div class="modal-body row">
 							<div class="col-xs-12 col-md-3">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="Image" />
+								<img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IBC.jpg" alt="Image" />
 							</div>
 							<div class="col-xs-12 col-md-9">
 								<h5 class="cand_position">Reyn Watanabe</h5>
