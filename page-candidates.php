@@ -108,13 +108,13 @@ $dir_of_info_systems = 'Director of Information Systems';
 		</div> <!-- row -->
 		<hr />
 
-		<!-- Director of Internal Affairs -->
+		<!-- Director of Internal Affairs
 		<div class="row">
 			<div class="col-xs-12">
 				<h2>Running for: <b><?php echo $dir_of_internal_affairs; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpg" alt="IBC Senator" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="IA" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -131,8 +131,8 @@ $dir_of_info_systems = 'Director of Information Systems';
 					<a href="#dir_of_internal_affairs_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
 			</div>
-		</div> <!-- row -->
-		<hr />
+		</div>
+		<hr /> -->
 
 		<!-- Director of Student Relations -->
 		<div class="row">
@@ -140,7 +140,7 @@ $dir_of_info_systems = 'Director of Information Systems';
 				<h2>Running for: <b><?php echo $dir_of_student_rels; ?></b></h2>
 			</div>
 			<div class="col-xs-12 col-md-2 col-md-offset-3">
-				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.jpg" alt="Director of Professional Development" />
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/SR.JPG" alt="Director of Professional Development" />
 			</div>
 			<div class ="col-xs-12 col-md-6">
 				<div class="board-container cand-details">
@@ -241,6 +241,27 @@ $dir_of_info_systems = 'Director of Information Systems';
 						I am excited to see what the next semester has in store and would love to be a part of making all of your experiences be as great and welcoming as it was for me! Thank you for taking the time to read this and I hope to see you all at the election meeting! <br>
 						Sincerely, <br>
 						Nicole S.J. Kim
+					</p>
+					<a href="#dir_of_info_sys_01" class="btn btn-primary" data-toggle="modal">Read More</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-2 col-md-offset-3">
+				<img class="img-circle img-responsive" src="<?php echo get_template_directory_uri(); ?>/images/Spring-2017-candidates/IA.jpeg" alt="Director of Information Systems" />
+			</div>
+			<div class ="col-xs-12 col-md-6">
+				<div class="board-container cand-details">
+					<h4>Jamie-Ryan Aranaydo</h4>
+					<p>
+						Hey  AC!<br>
+						My name is Jamie-Ryan Aranaydo, and I am running for the position of Director of Information Systems this upcoming Spring 2017.  I ‘ve just started my first semester here at Shidler College of Business and am pursuing degrees in Accounting and MIS. My experiences so far in accounting club has been wonderful. Working on achieving active status has allowed me to meet a lot of great people here in the club. I believe that I haven’t met everyone in club just yet, but by serving on board, I hope to get to know each and every one you.<br>
+						I was previously an ICS major, and now double majoring in business. This is where most of my interest in running for Information Systems has come from. Course that I have taken for ICS were Computer Science, Discrete Math for Computing, Networking, Computer Maintenance and Repair, Programing, and Computer Security. These courses have allowed me to develop proficient skills in PowerPoint, Video Editing, and Website Design.<br>
+						As Director of Information Systems, my role is to provide leadership for innovative use of information technologies. My required duties are to maintain and update the website, create the monthly newsletter, budget and coordinate production of club t-shirt, and to take as many photos possible. I believe that I am capable of fulfilling all my duties and much more. I’ve worked on the digital menu display for Honolulu Kitchen and also managed their Instagram as well. Some school projects I have done were developing apps for android, creating cartoons in PowerPoint, designing websites, and creating music videos.<br>
+						Please allow me to serve on the executive board as a way to provide the club and its members with my knowledge and skill with Information Technology. <br>
+						Sincerely,<br>
+						Jamie-Ryan Aranaydo
 					</p>
 					<a href="#dir_of_info_sys_01" class="btn btn-primary" data-toggle="modal">Read More</a>
 				</div>
